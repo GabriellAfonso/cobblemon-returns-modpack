@@ -949,6 +949,11 @@ hash = "fdf6350ccf02d6beb9d3dd787e713ba798d919ac6d63feba824bb4571e5af0bf"
 metafile = true
 
 [[files]]
+file = "mods/aps-trophies.pw.toml"
+hash = "434b78117e24d2538f9ecdd678529225a1310824ae35ebe7a8f7c07b4cd91a6a"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
 metafile = true
@@ -1062,6 +1067,11 @@ hash = "5ddeb6f55fc1e3ccf36bd3733768ff64337e5531b018a05668c7e9d42f3c2b19"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-alpha-project.pw.toml"
+hash = "f0a7e780d2b5d2d6d22056784afce70b7cf3dab031088384f00cbd6e72d778b4"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-capture-xp.pw.toml"
 hash = "7b1a4c05830e3a7cd23652389bc0275fba4a1a78b2ad29aa5f4a869e4dc9a124"
 metafile = true
@@ -1117,11 +1127,6 @@ hash = "509af72f2ed2559bb3829ed25ea9cbd4eb19b05c0151fa558e15a9936dddf2e4"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-ranked.pw.toml"
-hash = "f5afe856149c64acae88376695560d5a5711aa12ecc84fb409d88292a9c03f0b"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-repel.pw.toml"
 hash = "758f07baa24cdd1065e440aa7d1fb4f774288b082c09ef278c5db7f42d01cce5"
 metafile = true
@@ -1159,6 +1164,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-tim-core.pw.toml"
 hash = "82cbfd5cf3bcf0bec02ae7ec5b182981561aa566df61683358e5612dae083fdb"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-trials-edition.pw.toml"
+hash = "ff9ed2e964a6f5c2e3adc4fff95c4c6af1564e750e3239b250f51be28524c41f"
 metafile = true
 
 [[files]]
@@ -1246,6 +1256,11 @@ hash = "41f47446ef8951ead58d1d1e1e7137d27b1faa0f0649f7d6f2060b201b0fa0c1"
 metafile = true
 
 [[files]]
+file = "mods/debugify.pw.toml"
+hash = "7cb9e98526468233fbec6f949c78a8afc5ef29447868e1d11cb71293237966a2"
+metafile = true
+
+[[files]]
 file = "mods/disconnect-packet-fix.pw.toml"
 hash = "5c9f7094a4327e0730966e4a58617456695fbcbaedae3f79903ea6a1d939fc6e"
 metafile = true
@@ -1318,6 +1333,11 @@ metafile = true
 [[files]]
 file = "mods/first-join-message.pw.toml"
 hash = "5bfc8f58abd811f44ecac83bdeb6e35f826161a95c89687b01dbb60b65895bb4"
+metafile = true
+
+[[files]]
+file = "mods/flan-cobblemon-extension.pw.toml"
+hash = "5fd289490e9dbc714c4cca3ce6757159720025af015a88ec86b0bba4bce6e3e1"
 metafile = true
 
 [[files]]
@@ -1694,6 +1714,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/cobblemon-interface.pw.toml"
 hash = "252ea5b173528625a9e30c39598d80c1a18021f6695c822fece342c88db86ea2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cobblemotion.pw.toml"
+hash = "667d888aaa3e991f2063c3e0b14045eb9f36f143ca61bae1e0c630b33540f555"
 metafile = true
 
 [[files]]
