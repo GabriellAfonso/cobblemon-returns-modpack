@@ -582,7 +582,7 @@ hash = "d8f98960e9bdc3c13de178ff48138f3b1eb6a0505935c12612f40aa461a003b3"
 
 [[files]]
 file = "config/starterkit/kits/Default.txt"
-hash = "9494ce7267c9bf623e2c863a7db5e0a1c556b698f774a5bd010467f103d9351b"
+hash = "e6aadfb57130d7b09cd23de8663186b2d0ef75791aa9d7fefd4b9f8d446a536e"
 
 [[files]]
 file = "config/starterkit/kits/inactive/Archer.txt"
@@ -1543,7 +1543,7 @@ hash = "aa6652fdcf32b0525519737af7297011f3f865dbdda94703e054b50d2195007e"
 
 [[files]]
 file = "mods/rctmod-fabric-1.21.1-0.17.7-beta(modified).jar"
-hash = "09215610ddec71769b9564b2e7c352b6744ba7e825a44917191dfde3204cefee"
+hash = "7e0f601bc2f2e03a4bf0595f685a3ee8eab1b9b924f6fedd8dd2d68e79ff994e"
 
 [[files]]
 file = "mods/refurbished-furniture.pw.toml"
