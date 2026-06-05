@@ -949,6 +949,11 @@ hash = "fdf6350ccf02d6beb9d3dd787e713ba798d919ac6d63feba824bb4571e5af0bf"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
+metafile = true
+
+[[files]]
 file = "mods/aps-trophies.pw.toml"
 hash = "434b78117e24d2538f9ecdd678529225a1310824ae35ebe7a8f7c07b4cd91a6a"
 metafile = true
