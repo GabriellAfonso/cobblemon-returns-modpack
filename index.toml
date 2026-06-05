@@ -1192,6 +1192,10 @@ hash = "3bce640a42f9c030fd50ad135ddb5218b56a3b5c85e03c8bcfc8e9093ec7bc85"
 metafile = true
 
 [[files]]
+file = "mods/cobblesafari-noportalzone-1.0.0-(my).jar"
+hash = "93d1c2b3ff64b92733f3a973d58b589d075b9c8bedfb877356e1bd3773ddc8c7"
+
+[[files]]
 file = "mods/cobblesafari.pw.toml"
 hash = "bbf812d8a9426ba6bc485208a8a48330e3a9745a9e69ac2077d15b7f4a370703"
 metafile = true
