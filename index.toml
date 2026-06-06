@@ -109,6 +109,10 @@ file = "config/cobblemon_wiki_gui/main.json"
 hash = "9bb133a0d62136cccff273cdccb1f9830a06531f23b21ec04198453ecfe0e5fe"
 
 [[files]]
+file = "config/cobblemonalphas/config.json"
+hash = "31fa91e39c15c0b9dc5c511d94c3e46fcc208cd4dc38aa3285fed5502e2b915f"
+
+[[files]]
 file = "config/cobblemonchallenge-config.properties"
 hash = "a8330adbabaa6a9f2e2cb4b9c99d86135d21d519ff2cb52cf8f7569caedc0a47"
 
@@ -582,7 +586,7 @@ hash = "d8f98960e9bdc3c13de178ff48138f3b1eb6a0505935c12612f40aa461a003b3"
 
 [[files]]
 file = "config/starterkit/kits/Default.txt"
-hash = "e6aadfb57130d7b09cd23de8663186b2d0ef75791aa9d7fefd4b9f8d446a536e"
+hash = "846d4bf05225709c029382f413f6739be938005ba3545dbe65fefa647422d6c0"
 
 [[files]]
 file = "config/starterkit/kits/inactive/Archer.txt"
@@ -778,7 +782,7 @@ hash = "86918755ea7ab304b3aa3c35c28254d0c5baf09b4e9fbd4b15851ec133c7aa60"
 
 [[files]]
 file = "datapacks/gym-leaders-datapack.zip"
-hash = "46b6675c68976e76b8ef0f7b4aaa80c229042aadc3d5d0ab7e613279b6901b11"
+hash = "f3ac9695809f6a49c10e2e6c1e69783e465ef7a8778b5f5c91d57340f93ded67"
 
 [[files]]
 file = "emotes/Ascend.emotecraft"
