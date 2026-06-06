@@ -58,7 +58,7 @@ hash = "f5a64c99266d104de1a899388172970da2a16f86ce96af7ca5961b0d363f289c"
 
 [[files]]
 file = "config/cobbledollars/bank.json"
-hash = "3ae8312dc740d0be6b043f11cbf2761e8b3fbfbc6e49ab36650157351e758c8d"
+hash = "99416676208677f188d0ed47d514da5e4955cad3c7d7f79ad650f610d4035381"
 
 [[files]]
 file = "config/cobbledollars/client.json"
@@ -383,6 +383,10 @@ hash = "9704d03d869a866e68c5e783025c8720df6d35e3e76c56080e08e9bf6473a341"
 [[files]]
 file = "config/ferritecore.mixin.properties"
 hash = "bdd54ad580fc678a117e4f559daaed5ebbe0dde176127ddb95dd2d5e5b4e4818"
+
+[[files]]
+file = "config/flan/flan_config.json"
+hash = "a7a144801ab8a6fc05fe919ff9837917114bf02e446b1f53b725cfe2becf915a"
 
 [[files]]
 file = "config/forgeconfigapiport.toml"
