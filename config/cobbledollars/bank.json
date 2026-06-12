@@ -627,6 +627,14 @@
     {
       "item": "cobblemon:tasty_tail",
       "price": 49
+    },
+    {
+      "item": "minecraft:nether_star",
+      "price": 100000
+    },
+    {
+      "item": "minecraft:wither_skeleton_skull",
+      "price": 350
     }
   ]
 }

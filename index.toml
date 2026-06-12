@@ -58,7 +58,7 @@ hash = "f5a64c99266d104de1a899388172970da2a16f86ce96af7ca5961b0d363f289c"
 
 [[files]]
 file = "config/cobbledollars/bank.json"
-hash = "1347675d917b12cc516b6c5d178e41661c84556374b93c9d0c51069e9bbce20a"
+hash = "651606e4444d214b76890ee9873ba76927ea8684e4e0245847f5834f687d13fd"
 
 [[files]]
 file = "config/cobbledollars/client.json"
