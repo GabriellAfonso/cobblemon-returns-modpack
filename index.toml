@@ -58,7 +58,7 @@ hash = "f5a64c99266d104de1a899388172970da2a16f86ce96af7ca5961b0d363f289c"
 
 [[files]]
 file = "config/cobbledollars/bank.json"
-hash = "99416676208677f188d0ed47d514da5e4955cad3c7d7f79ad650f610d4035381"
+hash = "1347675d917b12cc516b6c5d178e41661c84556374b93c9d0c51069e9bbce20a"
 
 [[files]]
 file = "config/cobbledollars/client.json"
@@ -78,7 +78,7 @@ hash = "2c93a8fa5c3b00477559fa6d3c55ee833ad628efb4c2a24ad880f6e02677257f"
 
 [[files]]
 file = "config/cobblemon/main.json"
-hash = "ab145cf5247588e43b70dae823a83b450608b78932056ca1a0ab133f05b694c4"
+hash = "3fe011a1b548aba47c17be055140db2414a062096b435dd127ecd83975e0b618"
 
 [[files]]
 file = "config/cobblemon_ranked/cobblemon_ranked.json"
@@ -770,11 +770,15 @@ hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
 file = "config/ysns.json"
-hash = "a38e8bea61c6c487428d9d1e9e77996bb5d84acd83fa95db0d63469e1af922b9"
+hash = "ff35ba512b2197762e1ac76c7f18ee928b90e0bc4584174376ff65303720a1ca"
 
 [[files]]
 file = "datapacks/CobbleSounds[Data]_v1.4.zip"
 hash = "2d9decb48435255c02a682fc9cbb425203001800539d43a76f74f4cebee1bf5b"
+
+[[files]]
+file = "datapacks/RayquazaEnd.zip"
+hash = "9ae6d9752f62b6fa68fc416070ab47a00cc801ccb3d27c44d4f84ad5356051b8"
 
 [[files]]
 file = "datapacks/cobbledgacha_override.zip"
@@ -785,8 +789,16 @@ file = "datapacks/cobblesafari-datapack.zip"
 hash = "86918755ea7ab304b3aa3c35c28254d0c5baf09b4e9fbd4b15851ec133c7aa60"
 
 [[files]]
+file = "datapacks/datapack_lendarios_spawns.zip"
+hash = "ce0a6428b8970835cc3d4d653e57191ced89963fa8470ea17ac5073e052d6804"
+
+[[files]]
 file = "datapacks/gym-leaders-datapack.zip"
 hash = "a8c22b228d8a7463c9c07234e76dc607d78badb99832d3765419384d2a824799"
+
+[[files]]
+file = "datapacks/pokemon-custom-drops.zip"
+hash = "5b062ca3866c5829acb5431bc65f4c0043458a12409b5245019a73b562ab385b"
 
 [[files]]
 file = "emotes/Ascend.emotecraft"
