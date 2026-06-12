@@ -19,7 +19,6 @@
     "minecraft:donkey",
     "minecraft:drowned",
     "minecraft:elder_guardian",
-    "minecraft:ender_dragon",
     "minecraft:enderman",
     "minecraft:endermite",
     "minecraft:evoker",
@@ -80,6 +79,6 @@
     "minecraft:zombie_villager",
     "minecraft:zombified_piglin",
     "cobbledollars:cobble_merchant",
-    "minecraft:shulker_bullet",
+    "minecraft:shulker_bullet"
   ]
 }
