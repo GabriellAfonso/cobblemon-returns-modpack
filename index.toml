@@ -42,7 +42,7 @@ hash = "b66da6824b6141acca353406c20654ebf599c814d50da37006b2bf51009b4f2a"
 
 [[files]]
 file = "config/carryon-common.json"
-hash = "f13586f090400e6a5d5b8c92fadc6cf36f90ac5db91361f4cb4db39fd7039d99"
+hash = "171e09559422380cd9155c50a025b02426c75883d556297836f5952b40d60ffb"
 
 [[files]]
 file = "config/catchrate-display.json"
@@ -773,12 +773,12 @@ file = "config/ysns.json"
 hash = "81110172ed5c6915bfed197a1a8baab9ebcb45f3d8ed9e69518ef71643f23ddf"
 
 [[files]]
-file = "datapacks/CobbleSounds[Data]_v1.4.zip"
-hash = "2d9decb48435255c02a682fc9cbb425203001800539d43a76f74f4cebee1bf5b"
+file = "datapacks/COBBLEVERSE - No Ender Dragon.zip"
+hash = "f5cdae688e55951f36f22a4b13ec73f33da1ebb1368f55335d8b9d2cca8190af"
 
 [[files]]
-file = "datapacks/RayquazaEnd.zip"
-hash = "9ae6d9752f62b6fa68fc416070ab47a00cc801ccb3d27c44d4f84ad5356051b8"
+file = "datapacks/CobbleSounds[Data]_v1.4.zip"
+hash = "2d9decb48435255c02a682fc9cbb425203001800539d43a76f74f4cebee1bf5b"
 
 [[files]]
 file = "datapacks/cobbledgacha_override.zip"
