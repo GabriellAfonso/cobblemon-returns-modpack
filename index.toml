@@ -964,6 +964,11 @@ hash = "376d87f9343537d02a9841478c5b5b6f794fdd3e49dd2bd4efde3cbfe57a0394"
 metafile = true
 
 [[files]]
+file = "mods/advancement-plaques.pw.toml"
+hash = "26085aa8480f728633c0b84a5eb1879f2911993905c425f3596fb2bef0ed94cc"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "fdf6350ccf02d6beb9d3dd787e713ba798d919ac6d63feba824bb4571e5af0bf"
 metafile = true
@@ -994,6 +999,16 @@ hash = "a7f7974f0526516e8c8e24fecf1544ce1e9017daf95540cf6b3a817c9eb352b4"
 metafile = true
 
 [[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "a7a6a8396dd3842912b9483e6dfd0f39d165700e7eab470d4eab2244fc5d624e"
+metafile = true
+
+[[files]]
+file = "mods/better-furnaces-reforged.pw.toml"
+hash = "a2dd3e0f2f3d2a5f1b112ce956f56187c5a1aacf3680a00d256135f92b106e7b"
+metafile = true
+
+[[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 hash = "981d25ce1ae68cb59185be3807b4620c53378b6b695307bf4faba8413add8a12"
 metafile = true
@@ -1001,6 +1016,16 @@ metafile = true
 [[files]]
 file = "mods/better-stats.pw.toml"
 hash = "7b87ea6e0623ada323e65fa0420e0827f6e88689898a0454376e460ad8cbc5dc"
+metafile = true
+
+[[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "dd18db1413980ef467ac2e86c7e5f3cef26d366119f43121204a442583e7c0bd"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "7d1815ec4f2098c4de8b01494373d84da8a5104accd5ae028a2a020595646082"
 metafile = true
 
 [[files]]
@@ -1036,6 +1061,11 @@ metafile = true
 [[files]]
 file = "mods/chisel-reborn.pw.toml"
 hash = "66d6af01197c4e7ac6caf7bdba1734b2e90fe8c48b842100f3d9a468722cc970"
+metafile = true
+
+[[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "4afbe5d16695aa241c61c67d3cc3e0b1259872f3f1380241eeb51176c78fe038"
 metafile = true
 
 [[files]]
@@ -1350,6 +1380,11 @@ hash = "337d97b990f76c91584b12600651ae7bd47a0824e45070b3d9330b0922149fc0"
 metafile = true
 
 [[files]]
+file = "mods/factory-api.pw.toml"
+hash = "2f7397eec5d42fec1c97b4f89fc55f0c380117efa6956d5821823d36cced781a"
+metafile = true
+
+[[files]]
 file = "mods/fallingtree.pw.toml"
 hash = "7d61ad815f97afb27f7e97475e80376aa19fecf25a1b04a500a4c3a6e5055973"
 metafile = true
@@ -1394,6 +1429,11 @@ hash = "84e4e5d7adfa7d4a18bd1fb026d190824de8556fcc02036fea8f1a41563e1ef5"
 metafile = true
 
 [[files]]
+file = "mods/iceberg.pw.toml"
+hash = "c104293981bbfbf0b194c9428e8ec71fd980e80d80050204a83835a01deeecf3"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "3c5f595f507f250487d533c8002af1999b213e2f9bd08c9d427ae58cf9d598ef"
 metafile = true
@@ -1404,6 +1444,11 @@ hash = "1fcaece229ee5b6a8a87bf7437525ab942b96c31552d1f5e4f5e87ec8e2b1a7f"
 metafile = true
 
 [[files]]
+file = "mods/immersivethunder.pw.toml"
+hash = "086d8b88627ca2b5eb4457a26a8894d1b0861e7b8e909e461a02b054814914da"
+metafile = true
+
+[[files]]
 file = "mods/inventory-management.pw.toml"
 hash = "40b85465f985bcb300b89018271103db50340ac99949502fc3ff64fb50bcbbae"
 metafile = true
@@ -1411,6 +1456,11 @@ metafile = true
 [[files]]
 file = "mods/invisible-frames-mod.pw.toml"
 hash = "7e8eed4ab3ce35142e737b580148d1b9c903101dcd431318e73157cc76c5cfda"
+metafile = true
+
+[[files]]
+file = "mods/invmove.pw.toml"
+hash = "44f1fbc496fb2d54467ccbe0df5362c54542193e33b8541ad75b532e1baf775e"
 metafile = true
 
 [[files]]
@@ -1461,6 +1511,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-furniture.pw.toml"
 hash = "99deb2f3aa9cd5d7eff3dd58e8acbb32662cbd448a10fd588c166786200e3019"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-comes-alive-reborn.pw.toml"
+hash = "224bb31a240dfaec2be6ad893cca924dd137b9ab9046723470381d5ae959dcfd"
 metafile = true
 
 [[files]]
@@ -1605,6 +1660,11 @@ hash = "8bf60768570f30af09d761d0b7deb95a3b408c6885c8c782991bec3ced5e349b"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "4ea85fa7d750bf5a167fe9652f2ac896d12ab068dacb8b04539e316ba5b74042"
+metafile = true
+
+[[files]]
 file = "mods/soundsbegone.pw.toml"
 hash = "7cdd38a2e7f324500dfbdd93c876da47fec6c99adcc34d18a772fc1c96295770"
 metafile = true
@@ -1622,6 +1682,16 @@ metafile = true
 [[files]]
 file = "mods/structurify.pw.toml"
 hash = "71cd32e6267aaed25123425166222aee479bcd6a46a59409a7548fd3c7c467af"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "8e009ac87710fbd8f5990285d36ab2b4755e932664ca1bcb9cdfac116d6e3b6d"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "64fa6356e818a3e773834a283e8453f2659f7e367de6d56a7dc585ea414bf121"
 metafile = true
 
 [[files]]
@@ -1738,6 +1808,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/cobblemon-interface.pw.toml"
 hash = "252ea5b173528625a9e30c39598d80c1a18021f6695c822fece342c88db86ea2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cobblemon-loading-backgrounds.pw.toml"
+hash = "081a1d416837df37fca8e55a4017b4a40aa475c9e4f619562be71c4782fbbe06"
 metafile = true
 
 [[files]]
