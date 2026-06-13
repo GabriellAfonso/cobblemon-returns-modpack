@@ -49,7 +49,7 @@ damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
 resourcePacks:["vanilla","fabric","moonlight:merged_pack","cobblemon:gyaradosjump","cobblemon:regionbiasforms","cobblemon:uniqueshinyforms","mega_showdown:gyaradosjumpingmega","mega_showdown:regionbiasmsd","file/Cobblemon Interface v1.6.0.zip","file/XaerosCobblemon-3.0.4_stars+1.7.0.zip","cobbreeding:pasturefix","cobbreeding:coloredeggs","file/RCT Trainers+ [1.6] v2.1.zip","file/CobbleSounds[Complete]_v1.4.1.zip","continuity:default","continuity:glass_pane_culling_fix","file/TB Textures Cobblemon-fabric-1.5.zip","file/Cobblemon Interface Modded v1.9.4.zip","file/gym-leaders-resourcepack.zip","file/CobbleMotion_v1.5.zip","file/CobbleTCG_bbolt.zip","file/CobbleTCG_eskies.zip","file/CobbleTCG_hfates.zip","file/CobbleTCG_mew151.zip","file/CobbleTCG_wflare.zip"]
-incompatibleResourcePacks:["ali","balm","carryon","cobbledgacha","cobblesafari","easy_npc","easy_npc_config_ui","framework","jade","jei","modernfix","polymorph","refurbished_furniture","spark","starterkit","terrablender","toms_storage","waterframes","waystones","xaerolib","xaerominimap","xaeroworldmap","yet_another_config_lib_v3"]
+incompatibleResourcePacks:["ali","appleskin","balm","betteradvancements","betterfurnacesreforged","carryon","cobbledgacha","cobblesafari","easy_npc","easy_npc_config_ui","framework","jade","jei","mca","modernfix","polymorph","refurbished_furniture","spark","starterkit","terrablender","toms_storage","waterframes","waystones","xaerolib","xaerominimap","xaeroworldmap","yet_another_config_lib_v3"]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -133,6 +133,7 @@ key_key.catchrate.move_down:key.keyboard.unknown
 key_key.catchrate.move_left:key.keyboard.unknown
 key_key.catchrate.move_right:key.keyboard.unknown
 key_key.catchrate.cycle_anchor:key.keyboard.unknown
+key_chunkloaders.keys.open_screen:key.keyboard.c
 key_key.cobbledollars_ticket.open_shop:key.keyboard.p
 key_key.cobblemon.hideparty:key.keyboard.o
 key_key.cobblemon.summary:key.keyboard.i
@@ -149,6 +150,7 @@ key_key.emotecraft.stop:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_inventorymanagement.keybind.position_edit.player:key.keyboard.unknown
 key_inventorymanagement.keybind.position_edit.container:key.keyboard.unknown
+key_keybind.invmove.toggleMove:key.keyboard.unknown
 key_key.jade.config:key.keyboard.keypad.0
 key_key.jade.show_overlay:key.keyboard.keypad.1
 key_key.jade.toggle_liquid:key.keyboard.keypad.2
@@ -187,6 +189,7 @@ key_key.jei.previousCategory:key.keyboard.page.up
 key_key.jei.nextCategory:key.keyboard.page.down
 key_key.jei.closeRecipeGui:key.keyboard.escape
 key_key.jei.copy.recipe.id:key.keyboard.unknown
+key_key.mca.skin_library:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
 key_supplementaries.keybind.quiver:key.keyboard.unknown
 key_key.music_control.previousMusic:key.keyboard.unknown

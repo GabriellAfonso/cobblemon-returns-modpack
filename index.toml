@@ -450,7 +450,7 @@ hash = "6814fc05aa8d6664712b056cfd6cb51cb4bafeabe3f274b9cf5e19e27eff406d"
 
 [[files]]
 file = "config/mca.json"
-hash = "207dd5e8356335c08f74caf812597a14106931230f1403236d4737a8f8c63be1"
+hash = "77f6f46e2bd58d144eae171365c9e3a8cc74a11796837917b344e224031f9814"
 
 [[files]]
 file = "config/mega_showdown/config.json"
@@ -1786,7 +1786,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "fac9181aa12e1fd5496ce528d0738210eb0133ace16507ae79e8bc4280e14087"
+hash = "e66e38e09c528e38d39cdbbf13057201bcc9514824ce260b6acb6ffd68f4e54d"
 
 [[files]]
 file = "resourcepacks/CobbleTCG_bbolt.zip"
