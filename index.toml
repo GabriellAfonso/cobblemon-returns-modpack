@@ -21,6 +21,10 @@ file = "config/ali/ali_common.json"
 hash = "f147909a581da8cf46084ff8daeea1d416a41517501f4ff3d73c1117aeb65396"
 
 [[files]]
+file = "config/betterf3.json"
+hash = "f680501dc292f77405f3864d39e72b443ada1b615b800b0519d5428ee16f189b"
+
+[[files]]
 file = "config/betterpingdisplay.json"
 hash = "d9b413555ca6e7add44924c507e5ec5dc8db060f9b04fdfefcd505e61faec0e0"
 
@@ -445,6 +449,10 @@ file = "config/libgui.json5"
 hash = "6814fc05aa8d6664712b056cfd6cb51cb4bafeabe3f274b9cf5e19e27eff406d"
 
 [[files]]
+file = "config/mca.json"
+hash = "a27f8d207e8114d44aacbbaf2b705852d70b638ca7896a307aabe443db83ee1d"
+
+[[files]]
 file = "config/mega_showdown/config.json"
 hash = "f5c54e5fd5fc95fdac9c5a1b29a2ad461c8c1d3191d74820117223785e4ec2a3"
 
@@ -590,7 +598,7 @@ hash = "d8f98960e9bdc3c13de178ff48138f3b1eb6a0505935c12612f40aa461a003b3"
 
 [[files]]
 file = "config/starterkit/kits/Default.txt"
-hash = "846d4bf05225709c029382f413f6739be938005ba3545dbe65fefa647422d6c0"
+hash = "b94e4df48c20469dbeb91f6fa32b3d3bf324ed15ac3564aa321695ff3412e3e0"
 
 [[files]]
 file = "config/starterkit/kits/inactive/Archer.txt"
@@ -1808,11 +1816,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/cobblemon-interface.pw.toml"
 hash = "252ea5b173528625a9e30c39598d80c1a18021f6695c822fece342c88db86ea2"
-metafile = true
-
-[[files]]
-file = "resourcepacks/cobblemon-loading-backgrounds.pw.toml"
-hash = "081a1d416837df37fca8e55a4017b4a40aa475c9e4f619562be71c4782fbbe06"
 metafile = true
 
 [[files]]
