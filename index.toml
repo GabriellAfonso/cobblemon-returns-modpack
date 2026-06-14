@@ -1522,11 +1522,6 @@ hash = "99deb2f3aa9cd5d7eff3dd58e8acbb32662cbd448a10fd588c166786200e3019"
 metafile = true
 
 [[files]]
-file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "224bb31a240dfaec2be6ad893cca924dd137b9ab9046723470381d5ae959dcfd"
-metafile = true
-
-[[files]]
 file = "mods/mob-lassos.pw.toml"
 hash = "8db5dc37941395755210b8dd4524c0df556884324a5cf7140c529dfe79f95ce4"
 metafile = true
