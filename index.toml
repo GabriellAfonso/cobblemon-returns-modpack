@@ -114,7 +114,7 @@ hash = "9bb133a0d62136cccff273cdccb1f9830a06531f23b21ec04198453ecfe0e5fe"
 
 [[files]]
 file = "config/cobblemonalphas/config.json"
-hash = "31fa91e39c15c0b9dc5c511d94c3e46fcc208cd4dc38aa3285fed5502e2b915f"
+hash = "631622f7c9eb773ccd6160ef08fa5f38e7ae989b34bf2f2ad887048f74c8d492"
 
 [[files]]
 file = "config/cobblemonchallenge-config.properties"
@@ -179,6 +179,10 @@ hash = "037aaa5731f2a7d087cf3566ca4a21acdcc57f069b9e7710a3123aae681191c1"
 [[files]]
 file = "config/cobblemonresearchtasks/preset/default_preset.json"
 hash = "037aaa5731f2a7d087cf3566ca4a21acdcc57f069b9e7710a3123aae681191c1"
+
+[[files]]
+file = "config/cobblemontrialsedition.toml"
+hash = "ba1992d244a87ba7d761b01b78567b2ea86d84aac6953faad9b94414e8c4a177"
 
 [[files]]
 file = "config/cobblenav/client-config.json"
@@ -387,6 +391,10 @@ hash = "9704d03d869a866e68c5e783025c8720df6d35e3e76c56080e08e9bf6473a341"
 [[files]]
 file = "config/ferritecore.mixin.properties"
 hash = "bdd54ad580fc678a117e4f559daaed5ebbe0dde176127ddb95dd2d5e5b4e4818"
+
+[[files]]
+file = "config/fightorflight.json5"
+hash = "e5d1897a282aea303098b98666ec0c433718e68840165e96badb8ca81ec6343b"
 
 [[files]]
 file = "config/flan/flan_config.json"
@@ -778,7 +786,7 @@ hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
 file = "config/ysns.json"
-hash = "81110172ed5c6915bfed197a1a8baab9ebcb45f3d8ed9e69518ef71643f23ddf"
+hash = "15d1654f31ee01215a1efcd17b7de1f9ce5016362b7052f12b37354c9a3a5ca1"
 
 [[files]]
 file = "datapacks/COBBLEVERSE - No Ender Dragon.zip"
@@ -787,6 +795,10 @@ hash = "f5cdae688e55951f36f22a4b13ec73f33da1ebb1368f55335d8b9d2cca8190af"
 [[files]]
 file = "datapacks/CobbleSounds[Data]_v1.4.zip"
 hash = "2d9decb48435255c02a682fc9cbb425203001800539d43a76f74f4cebee1bf5b"
+
+[[files]]
+file = "datapacks/CobblemonRaidDenDesigns-0.5_RELEASE.zip"
+hash = "75931b70e6f85022990461ee3da45ed296c1f4d77b8ed74e83fceead587bc66b"
 
 [[files]]
 file = "datapacks/cobbledgacha_override.zip"
@@ -806,7 +818,7 @@ hash = "a8c22b228d8a7463c9c07234e76dc607d78badb99832d3765419384d2a824799"
 
 [[files]]
 file = "datapacks/pokemon-custom-drops.zip"
-hash = "5b062ca3866c5829acb5431bc65f4c0043458a12409b5245019a73b562ab385b"
+hash = "53d97c8fc721e2ff26396df49a8172f5fdcaa7da9bef2d9c3b1cc6ea344e2f9e"
 
 [[files]]
 file = "emotes/Ascend.emotecraft"
@@ -979,6 +991,11 @@ metafile = true
 [[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "fdf6350ccf02d6beb9d3dd787e713ba798d919ac6d63feba824bb4571e5af0bf"
+metafile = true
+
+[[files]]
+file = "mods/anti-xray.pw.toml"
+hash = "7e13fd4866e0914226b1a78894da78a6ef3b0712e8e25d25e0b56fb56547a87b"
 metafile = true
 
 [[files]]
@@ -1155,6 +1172,11 @@ hash = "d6472f3028b7ccaede746de6910da3bd418b8d7db66a65983b9aef0a0ba5b20d"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"
+hash = "222a814ae1ace3f2324b34661c4e4dd73e59a130fee2da7c2672994e375bd6ed"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-infinite-stamina.pw.toml"
 hash = "65751a6bc6603b727302257c2c6a2f2aa07c98554443cdc7f174cc9992f38a84"
 metafile = true
@@ -1290,6 +1312,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "99c4a3e44b72a4a5557c95a36121cd4afe7927882dea0506ecd08d7bc66b290b"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "eecdc8127f69c74ff55fd183d1f1d7d5ef3e714d73845a239fe9e086147a67b1"
 metafile = true
 
 [[files]]
@@ -1640,6 +1667,11 @@ metafile = true
 [[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "ceb180c764fa9c7c12c7e750cc7b726171277cb2b68e47370888c4ff4679a4ed"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "8302da862578554b012b2cfe58a3c1e75b514d09f94d842e7303be41a2157aeb"
 metafile = true
 
 [[files]]
