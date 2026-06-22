@@ -1761,6 +1761,11 @@ hash = "b88eeffcbc387b48a89b616ff5b0ad6b0da33037b5326444f75a5f1a49916764"
 metafile = true
 
 [[files]]
+file = "mods/true-ending.pw.toml"
+hash = "01ceaadc4312cec47b35c619dec9875fd5600e81202980afe79f27c91d6ac311"
+metafile = true
+
+[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "37c8746fe9057612cd4f21e1221760e8dd2f78ce6b38a237b0ac925de21541e0"
 metafile = true
