@@ -1163,11 +1163,6 @@ hash = "80f3e845876cb0f2a2d8f06c1100f56ef1ff8f4f87c5c8a642673a0250697610"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-cobblestats.pw.toml"
-hash = "6ae09cfd9cb42c9eec7bb878c5f05fb74138f02b93363b4ec3c6817f63a17dd5"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-droploottables.pw.toml"
 hash = "d6472f3028b7ccaede746de6910da3bd418b8d7db66a65983b9aef0a0ba5b20d"
 metafile = true
@@ -1195,11 +1190,6 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
 hash = "12f7602032aacf43b9fd20da5b32f50705fc16a6e789311e016d510b9007d73b"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-move-inspector.pw.toml"
-hash = "5ce368e30190677b17351375c01b5efbfd7f3e3e16d11c1508293ab01cef8042"
 metafile = true
 
 [[files]]
