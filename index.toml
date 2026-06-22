@@ -62,7 +62,7 @@ hash = "f5a64c99266d104de1a899388172970da2a16f86ce96af7ca5961b0d363f289c"
 
 [[files]]
 file = "config/cobbledollars/bank.json"
-hash = "651606e4444d214b76890ee9873ba76927ea8684e4e0245847f5834f687d13fd"
+hash = "b470829cf01e1c5398ad2974e5e885f62fc94c39d644147170e4cc034ad3a623"
 
 [[files]]
 file = "config/cobbledollars/client.json"
@@ -789,10 +789,6 @@ file = "config/ysns.json"
 hash = "15d1654f31ee01215a1efcd17b7de1f9ce5016362b7052f12b37354c9a3a5ca1"
 
 [[files]]
-file = "datapacks/COBBLEVERSE - No Ender Dragon.zip"
-hash = "f5cdae688e55951f36f22a4b13ec73f33da1ebb1368f55335d8b9d2cca8190af"
-
-[[files]]
 file = "datapacks/CobbleSounds[Data]_v1.4.zip"
 hash = "2d9decb48435255c02a682fc9cbb425203001800539d43a76f74f4cebee1bf5b"
 
@@ -814,11 +810,11 @@ hash = "ce0a6428b8970835cc3d4d653e57191ced89963fa8470ea17ac5073e052d6804"
 
 [[files]]
 file = "datapacks/gym-leaders-datapack.zip"
-hash = "a8c22b228d8a7463c9c07234e76dc607d78badb99832d3765419384d2a824799"
+hash = "aca257e542753ce0e553576ad50690bce4525aaa66979fe63c3991d93bdd77f1"
 
 [[files]]
 file = "datapacks/pokemon-custom-drops.zip"
-hash = "53d97c8fc721e2ff26396df49a8172f5fdcaa7da9bef2d9c3b1cc6ea344e2f9e"
+hash = "711061e9a1b5014fb2e3e2eb6fbdb4d5a9fb8268812f21657b4f4bafb2136021"
 
 [[files]]
 file = "emotes/Ascend.emotecraft"
@@ -1149,6 +1145,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-alpha-project.pw.toml"
 hash = "f0a7e780d2b5d2d6d22056784afce70b7cf3dab031088384f00cbd6e72d778b4"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-battle-extras.pw.toml"
+hash = "1f6bd7e37ebe8275d02b9d5ec4037121dfbc236bd47f3b0b5f5e75cf598b620a"
 metafile = true
 
 [[files]]
