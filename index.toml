@@ -1873,3 +1873,8 @@ metafile = true
 [[files]]
 file = "servers.dat"
 hash = "ed1c9a017874da72f627e935137cd3be3435c8286d03c491986739c23ab5c4ab"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "ea258ed5bf495d9017eeadc3cbf9bd67b1e672d843826bc077135548b5bc699e"
+metafile = true
