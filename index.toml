@@ -5,6 +5,26 @@ file = "config/CobbleDollarNotes/config.json"
 hash = "45a674c46ad8397b833b15b4ef4fbd4604c5583f8bd87e3e334da6d3e0fa4528"
 
 [[files]]
+file = "config/EasyAuth/extended.conf"
+hash = "b09b8357c2adcdbfb23ee1db15ff8cb19bfddc79a5d8c77a0693326a3480534e"
+
+[[files]]
+file = "config/EasyAuth/main.conf"
+hash = "a68b9c15b0c14cdab6101958be5c018057d018af75f7230b2880cd591faa3bcd"
+
+[[files]]
+file = "config/EasyAuth/storage.conf"
+hash = "39378caea29920fb1ac5aaf4b9e12a0baef7abd39bf98f768a190537d06efb20"
+
+[[files]]
+file = "config/EasyAuth/technical.conf"
+hash = "ad1e69d75a75503779ac12af9ec7462c4fdfe2f8087504b1b08fe9f108338471"
+
+[[files]]
+file = "config/EasyAuth/translation.conf"
+hash = "ac4f278cff239fbcd0bd67391f7a2fc189f35408b887149e20a0ea26b9a41c93"
+
+[[files]]
 file = "config/LegendaryMonuments/pedestals.json"
 hash = "23561ed753f88750d6ff797f5e495479d575b8747af263f60668dfd473221ae2"
 
