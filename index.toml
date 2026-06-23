@@ -34,7 +34,7 @@ hash = "8538509776b0515694500a40196c276d07d00b896d25268c14a5c18d24f65b0e"
 
 [[files]]
 file = "config/accessories.json5"
-hash = "b9f6a56acdb02a286de9aa06578dac5485656fb476adc819fb3c63dd49ad0785"
+hash = "a7214a7766b8cafa2ac386d5e11fc01c5a955302b183301bfa6c28952c730a98"
 
 [[files]]
 file = "config/ali/ali_common.json"
