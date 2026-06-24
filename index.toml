@@ -42,7 +42,7 @@ hash = "f147909a581da8cf46084ff8daeea1d416a41517501f4ff3d73c1117aeb65396"
 
 [[files]]
 file = "config/betterf3.json"
-hash = "f680501dc292f77405f3864d39e72b443ada1b615b800b0519d5428ee16f189b"
+hash = "b3a9c980449fdc224a3768a44b9a40a17d71d58710271d84b97b3fe2e2fe094b"
 
 [[files]]
 file = "config/betterpingdisplay.json"

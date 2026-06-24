@@ -85,6 +85,26 @@
 				"horizontal_velocity": true
 			},
 			"enabled": true
+		}, 
+		{
+			"name": "location",
+			"name_color": 43520,
+			"value_color": 5636095,
+			"lines": {
+				"light": true,
+				"biome": true,
+				"rotation": false,
+				"facing": true,
+				"slime_chunk": false,
+				"local_difficulty": false,
+				"day_ticks": false,
+				"days_played": true,
+				"dimension": true,
+				"highest_block": false,
+				"highest_block_server": false,
+				"light_server": false
+			},
+			"enabled": true
 		}
 	]
 }
