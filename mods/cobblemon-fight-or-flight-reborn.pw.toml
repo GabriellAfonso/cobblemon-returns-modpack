@@ -1,13 +1,13 @@
 name = "Cobblemon Fight or Flight Reborn"
-filename = "fightorflight-fabric-0.10.7.jar"
+filename = "fightorflight-fabric-0.10.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/cTdIg5HZ/versions/glCpkfTv/fightorflight-fabric-0.10.7.jar"
+url = "https://cdn.modrinth.com/data/cTdIg5HZ/versions/3bB8nd7J/fightorflight-fabric-0.10.8.jar"
 hash-format = "sha512"
-hash = "23befa6dedd95f0f0ebcb716fbe661cd7b25dff838e23e193eece57b1f3a49d96a13b9c8777c881ddfcd9f6a7568d668e2c40a507053499f85a1fc510b233cbd"
+hash = "8225f6b4e674555c5bdbb5d313cb08be2eebdbbd9dadb7897f19ef76a82629d28d7ff469321c89e9dd6b42fa35449f3b9124106dd34060481067a1d1113ade18"
 
 [update]
 [update.modrinth]
 mod-id = "cTdIg5HZ"
-version = "glCpkfTv"
+version = "3bB8nd7J"

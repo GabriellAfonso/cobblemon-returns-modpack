@@ -826,7 +826,7 @@ hash = "86918755ea7ab304b3aa3c35c28254d0c5baf09b4e9fbd4b15851ec133c7aa60"
 
 [[files]]
 file = "datapacks/datapack_lendarios_spawns.zip"
-hash = "ce0a6428b8970835cc3d4d653e57191ced89963fa8470ea17ac5073e052d6804"
+hash = "5676b224a89a605e62d3a5a433ddbf5959969582b42d89e59172e89a79b430f5"
 
 [[files]]
 file = "datapacks/gym-leaders-datapack.zip"
@@ -1189,7 +1189,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"
-hash = "222a814ae1ace3f2324b34661c4e4dd73e59a130fee2da7c2672994e375bd6ed"
+hash = "c0e99277f02bfc6edb7db227e6e5614e3456629354ca9e3ed2d151f6095a8d74"
 metafile = true
 
 [[files]]
@@ -1546,12 +1546,17 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-monuments.pw.toml"
-hash = "e1f8a888c24fa3af21d18428471a72ee867321adfda329e31dc3ba555fc0209f"
+hash = "4ebdf4088ef3c5fc5bcdc60e030eccfdb100be7984eb976fc75c369848061ef7"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "23de0cbbfd28d752eb662c00a907406bac3e3ad529dd2ac250b41b4b0ef734ce"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "352a81fbdf849ceb1bf0a4b24c09a64abc9b29715644187de3032095c3ebf937"
 metafile = true
 
 [[files]]
@@ -1748,11 +1753,6 @@ metafile = true
 [[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "ffa71e1ce188b71291daa8bb67e8094ff7d0ef695add362200591c28e75cf457"
-metafile = true
-
-[[files]]
-file = "mods/terrablender.pw.toml"
-hash = "e35593590fe988653baebae4638f6c93b5d822351274955cc1288b34fe5429fe"
 metafile = true
 
 [[files]]
