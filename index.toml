@@ -1555,9 +1555,8 @@ hash = "23de0cbbfd28d752eb662c00a907406bac3e3ad529dd2ac250b41b4b0ef734ce"
 metafile = true
 
 [[files]]
-file = "mods/lithostitched.pw.toml"
-hash = "352a81fbdf849ceb1bf0a4b24c09a64abc9b29715644187de3032095c3ebf937"
-metafile = true
+file = "mods/lithostitched-1.7.11-fabric-21.1.jar"
+hash = "b75601b64b256ea25a1329afd994b7c75db52c0b739761c604fdfee1818e05d8"
 
 [[files]]
 file = "mods/macaws-furniture.pw.toml"
