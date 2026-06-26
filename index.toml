@@ -1828,7 +1828,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "e66e38e09c528e38d39cdbbf13057201bcc9514824ce260b6acb6ffd68f4e54d"
+hash = "f02e5190e3dda0675403e980433688bd8bfbe932d556f105f65376038d4e90bb"
 
 [[files]]
 file = "resourcepacks/CobbleTCG_bbolt.zip"
