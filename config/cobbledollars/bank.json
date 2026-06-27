@@ -82,11 +82,11 @@
     },
     {
       "item": "minecraft:diamond",
-      "price": 200
+      "price": 1000
     },
     {
       "item": "minecraft:diamond_block",
-      "price": 1800
+      "price": 9000
     },
     {
       "item": "minecraft:emerald",
@@ -102,15 +102,15 @@
     },
     {
       "item": "minecraft:netherite_scrap",
-      "price": 400
+      "price": 2000
     },
     {
       "item": "minecraft:netherite_ingot",
-      "price": 5000
+      "price": 10000
     },
     {
       "item": "minecraft:netherite_block",
-      "price": 45000
+      "price": 90000
     },
     {
       "item": "minecraft:cobblestone",
@@ -474,7 +474,7 @@
     },
     {
       "item": "minecraft:ender_pearl",
-      "price": 150
+      "price": 300
     },
     {
       "item": "minecraft:shulker_shell",
@@ -490,7 +490,7 @@
     },
     {
       "item": "minecraft:nether_star",
-      "price": 100000
+      "price": 150000
     },
     {
       "item": "cobblemon:cheri_berry",

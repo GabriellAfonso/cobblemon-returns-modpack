@@ -82,7 +82,7 @@ hash = "f5a64c99266d104de1a899388172970da2a16f86ce96af7ca5961b0d363f289c"
 
 [[files]]
 file = "config/cobbledollars/bank.json"
-hash = "b470829cf01e1c5398ad2974e5e885f62fc94c39d644147170e4cc034ad3a623"
+hash = "a2d977c567aaca41c9139f284ea0f7315b1ba991ae85f41782f6bc51eb09fd4e"
 
 [[files]]
 file = "config/cobbledollars/client.json"
@@ -102,7 +102,7 @@ hash = "2c93a8fa5c3b00477559fa6d3c55ee833ad628efb4c2a24ad880f6e02677257f"
 
 [[files]]
 file = "config/cobblemon/main.json"
-hash = "3fe011a1b548aba47c17be055140db2414a062096b435dd127ecd83975e0b618"
+hash = "c8f7eb99106c88b088590e599bf7b1289ece9b89c34367021e62d70c5eee0885"
 
 [[files]]
 file = "config/cobblemon_ranked/cobblemon_ranked.json"
@@ -426,7 +426,7 @@ hash = "40dbe5b348f89b8ded62bcdfe32807ffc3e78fa8e0f81607a739580019fe5450"
 
 [[files]]
 file = "config/gts/config.json"
-hash = "5c7756b3c1062041ad73fe14ef2caf583af315a823ea625a8c5d7186e7d6017f"
+hash = "8e41e4f7798b9d0c58162ad070e56d17dde04d88f3d535e65fb286bfd20a73f8"
 
 [[files]]
 file = "config/gts/lang.json"
@@ -1151,6 +1151,10 @@ hash = "2c28ff337867e333cba8d41eb8451574152dcd80d54cf8f55b27dc7f4febe414"
 [[files]]
 file = "mods/cobbledollars_notes-1.5.1-(my).jar"
 hash = "f39bffad3db8f3fe665bfe12f6f4d6634022e9462c6be453184ef6cae829067d"
+
+[[files]]
+file = "mods/cobbledollars_pricetip-fabric-1.21.1-1.0.0-(my).jar"
+hash = "6e682ffa861274837a8d0b02f8b13ee76a67f9ed603f3d44d8ea8ba1cfd30fe1"
 
 [[files]]
 file = "mods/cobblefurnies.pw.toml"

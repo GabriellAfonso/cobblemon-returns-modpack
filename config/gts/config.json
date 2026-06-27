@@ -23,27 +23,9 @@
   "minPriceLegendary": 0,
   "minPriceUltrabeast": 0,
   "maximumPrice": 999999999.0,
-  "customItemPrices": [
-    {
-      "item": {
-        "id": "cobblemon:item_that_does_not_exist",
-        "count": 1
-      },
-      "price": 1.0
-    }
-  ],
+  "customItemPrices": [],
   "bannedItems": [],
-  "customPokemonPrices": [
-    {
-      "pokemon": {
-        "species": "fakemon_placeholder",
-        "form": "",
-        "ability": "nonexistent_ability",
-        "gender": "male"
-      },
-      "price": 1.0
-    }
-  ],
+  "customPokemonPrices": [],
   "bannedPokemon": [],
   "removedModDescriptions": [
     "simpletms"
