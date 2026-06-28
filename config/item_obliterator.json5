@@ -50,6 +50,7 @@
   "only_disable_recipes": [
     "examplemod:example_item",
     "cobblemon:master_ball",
+    "cobblemon:ancient_origin_ball",
     "!cobbledgacha:.*",
     "!naturescompass:.*",
     "!explorerscompass:.*",

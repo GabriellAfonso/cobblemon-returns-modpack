@@ -450,7 +450,7 @@ hash = "ef26d10cf7746cd380cce226e2a8e626d1ee651466b3965dab3fac6f3611e995"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "ec3bad5353e93d6a6c50765c0f3e0d795a922acb2f6cca412c2be3f33d0d58cd"
+hash = "085414acf316ec90dbe3f81b716ccf0c9eeee4fcaeba95d78b8efdf417183160"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
