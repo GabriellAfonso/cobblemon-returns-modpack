@@ -665,10 +665,6 @@ file = "config/tim_core.json"
 hash = "f2682026483bfb843c5110e7c52ebccaded478b4f974f009001a9c70e18b1672"
 
 [[files]]
-file = "config/toms_storage.json"
-hash = "fe9bba01d323a80ceb0752143bb717708110ab6d8d3c87b32055728f81366a0d"
-
-[[files]]
 file = "config/transition.json"
 hash = "6c0060c7301372bbc414f86a139b383e34fb620f0621badd71bb19efc3f26767"
 
@@ -818,7 +814,7 @@ hash = "75931b70e6f85022990461ee3da45ed296c1f4d77b8ed74e83fceead587bc66b"
 
 [[files]]
 file = "datapacks/cobbledgacha_override.zip"
-hash = "88cd9f456629f2de233309717090339446b98a3f5d91e563ce9475c19b877f8c"
+hash = "7f7c355ff2010c86a63745bfbc327762fa292564a740afb0cf9e62e35fed657a"
 
 [[files]]
 file = "datapacks/cobblesafari-datapack.zip"
