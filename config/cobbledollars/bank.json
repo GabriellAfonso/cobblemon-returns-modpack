@@ -702,15 +702,15 @@
     },
     {
       "item": "cobblemon:relic_coin",
-      "price": 50
+      "price": 30
     },
     {
       "item": "cobblemon:relic_coin_pouch",
-      "price": 475
+      "price": 270
     },
     {
       "item": "cobblemon:relic_coin_sack",
-      "price": 4500
+      "price": 2430
     }
   ]
 }
