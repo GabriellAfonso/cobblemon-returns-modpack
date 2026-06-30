@@ -1183,11 +1183,6 @@ hash = "80f3e845876cb0f2a2d8f06c1100f56ef1ff8f4f87c5c8a642673a0250697610"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-droploottables.pw.toml"
-hash = "d6472f3028b7ccaede746de6910da3bd418b8d7db66a65983b9aef0a0ba5b20d"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"
 hash = "c0e99277f02bfc6edb7db227e6e5614e3456629354ca9e3ed2d151f6095a8d74"
 metafile = true
