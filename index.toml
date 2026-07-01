@@ -1168,6 +1168,11 @@ hash = "1f6bd7e37ebe8275d02b9d5ec4037121dfbc236bd47f3b0b5f5e75cf598b620a"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-boosters.pw.toml"
+hash = "261f03227e31fcf1b500e443b9f140c42cdcedc500f4be8256c08ac45043c574"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-capture-xp.pw.toml"
 hash = "7b1a4c05830e3a7cd23652389bc0275fba4a1a78b2ad29aa5f4a869e4dc9a124"
 metafile = true
@@ -1465,6 +1470,11 @@ hash = "84e4e5d7adfa7d4a18bd1fb026d190824de8556fcc02036fea8f1a41563e1ef5"
 metafile = true
 
 [[files]]
+file = "mods/gooeylibs.pw.toml"
+hash = "2e6ed271864a9b3d3d3fd2db28787c940e5b23a52b09fda7fe1f88671279aa73"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "c104293981bbfbf0b194c9428e8ec71fd980e80d80050204a83835a01deeecf3"
 metafile = true
@@ -1551,6 +1561,11 @@ hash = "b75601b64b256ea25a1329afd994b7c75db52c0b739761c604fdfee1818e05d8"
 [[files]]
 file = "mods/macaws-furniture.pw.toml"
 hash = "99deb2f3aa9cd5d7eff3dd58e8acbb32662cbd448a10fd588c166786200e3019"
+metafile = true
+
+[[files]]
+file = "mods/matthiesen-lib-api.pw.toml"
+hash = "d7979651b4e9f9e49a50332ce194b38759ecd85744acef75ff85d1967945f30e"
 metafile = true
 
 [[files]]

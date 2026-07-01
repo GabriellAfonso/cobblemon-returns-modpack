@@ -1,0 +1,13 @@
+name = "Matthiesen Lib API"
+filename = "matthiesen-lib-api-fabric-1.10.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/j2JrSWnx/versions/D6Z8y1Zo/matthiesen-lib-api-fabric-1.10.0.jar"
+hash-format = "sha512"
+hash = "622b69b58e34a215ec2f8916bc74464e8d0b8a2370d96c046be58637b3ddf35f4d0bdb55ecd8cd470d945c8f452f23e67b6bf24220c4d0ec37ad41052177be03"
+
+[update]
+[update.modrinth]
+mod-id = "j2JrSWnx"
+version = "D6Z8y1Zo"
