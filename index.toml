@@ -1633,8 +1633,8 @@ hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
 metafile = true
 
 [[files]]
-file = "mods/particular.pw.toml"
-hash = "9e2ef063b2f85ceb9d786289d09eb8d78f32b71d34210eabcbee1b4648b9b01a"
+file = "mods/particular-reforged.pw.toml"
+hash = "53fc6acbaea7dff4fc83f49db785e89f3b3fb1405a6cbbdd4b22ec9f4f335a11"
 metafile = true
 
 [[files]]
