@@ -650,7 +650,7 @@ hash = "467882c96e607517edb329e462d37ddea4c58133d7d173abcee5a2f1f48dde69"
 
 [[files]]
 file = "config/supplementaries-client.json"
-hash = "8d7c6729f55987d10203fbe95a67412d79ab92e6362d0299853aabf5cabcdeff"
+hash = "d0a3d3173fe80f283199f3390a78f609dc32738d040b25a119ae6ebdc82157f7"
 
 [[files]]
 file = "config/supplementaries-common.json"
