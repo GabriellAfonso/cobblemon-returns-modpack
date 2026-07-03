@@ -1,6 +1,6 @@
 name = "Matthiesen Lib API"
 filename = "matthiesen-lib-api-fabric-1.10.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/j2JrSWnx/versions/D6Z8y1Zo/matthiesen-lib-api-fabric-1.10.0.jar"
