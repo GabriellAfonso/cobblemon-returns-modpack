@@ -826,7 +826,7 @@ hash = "5676b224a89a605e62d3a5a433ddbf5959969582b42d89e59172e89a79b430f5"
 
 [[files]]
 file = "datapacks/gym-leaders-datapack.zip"
-hash = "aca257e542753ce0e553576ad50690bce4525aaa66979fe63c3991d93bdd77f1"
+hash = "911eff3845e519a639e6e42543b10bee21df05c0912a662018b0c1131924ffe2"
 
 [[files]]
 file = "datapacks/pokemon-custom-drops.zip"
@@ -1173,9 +1173,8 @@ hash = "1f6bd7e37ebe8275d02b9d5ec4037121dfbc236bd47f3b0b5f5e75cf598b620a"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-boosters.pw.toml"
-hash = "261f03227e31fcf1b500e443b9f140c42cdcedc500f4be8256c08ac45043c574"
-metafile = true
+file = "mods/cobblemon-boosters-fabric-1.x-DEV-SNAPSHOT.jar"
+hash = "8653d2c5f927ee3c23125e9ebdcbc8b745d6207468697e3134f0471ed7480a8e"
 
 [[files]]
 file = "mods/cobblemon-capture-xp.pw.toml"
@@ -1669,11 +1668,11 @@ metafile = true
 
 [[files]]
 file = "mods/rctapi-fabric-1.21.1-0.15.0-beta(modified).jar"
-hash = "aa6652fdcf32b0525519737af7297011f3f865dbdda94703e054b50d2195007e"
+hash = "6fc07269221f8ca2a426e26f9a88f5e44780d72661e3f83f56816fc9451c77e1"
 
 [[files]]
 file = "mods/rctmod-fabric-1.21.1-0.17.7-beta(modified).jar"
-hash = "7e0f601bc2f2e03a4bf0595f685a3ee8eab1b9b924f6fedd8dd2d68e79ff994e"
+hash = "f06bec28e20fb78e640425e5c634a1a98121f80938fafe76314fe5f39c44c866"
 
 [[files]]
 file = "mods/refurbished-furniture.pw.toml"
