@@ -1212,6 +1212,11 @@ hash = "dac3735111150e6dee94f69b03ccf6c8f65e2c975421c4f730d9afc70a3f4154"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-more-pc-info.pw.toml"
+hash = "d00faf7e9bacbe47f11961c3d30188e0cef03ff3f91e24dde9d26ec7c49cb86f"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-pasture-loot.pw.toml"
 hash = "253284368b80980f3261e44b2a539db0a608f525c6adfe8f096803de0c8e9c90"
 metafile = true

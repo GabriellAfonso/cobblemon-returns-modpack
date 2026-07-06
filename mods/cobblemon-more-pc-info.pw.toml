@@ -1,0 +1,13 @@
+name = "Cobblemon More PC Info"
+filename = "cobblemon-more-pc-info-fabric-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Oz0DQUKM/versions/ZWS70Uiy/cobblemon-more-pc-info-fabric-1.1.0.jar"
+hash-format = "sha512"
+hash = "c9153afec867d20607b22c2e138959e76c9fa074279decbdf0fe10604797c7b029fec27cdaf45d532562c3d46b63eb926deb87cd596a0951ea501976d7afc79a"
+
+[update]
+[update.modrinth]
+mod-id = "Oz0DQUKM"
+version = "ZWS70Uiy"
