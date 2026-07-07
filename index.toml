@@ -805,6 +805,10 @@ file = "config/ysns.json"
 hash = "15d1654f31ee01215a1efcd17b7de1f9ce5016362b7052f12b37354c9a3a5ca1"
 
 [[files]]
+file = "datapacks/CCC_2.1.zip"
+hash = "ce3d789b6f5a7a29018ba4c26cc384e51214bcbf891014b3f43218b33cba0174"
+
+[[files]]
 file = "datapacks/CobbleSounds[Data]_v1.4.zip"
 hash = "2d9decb48435255c02a682fc9cbb425203001800539d43a76f74f4cebee1bf5b"
 
@@ -1317,11 +1321,6 @@ hash = "4716f237728538396795f15fb128439d2ab13a95cc230a893015bf837e200522"
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "34cb9102708e368a116c6b11e98728e0c4b471a6afdf7ce9602f93cb75174509"
-metafile = true
-
-[[files]]
-file = "mods/complete-cobblemon-collection-myths-and-legends-compat.pw.toml"
-hash = "7dc62e3d29ad286794fd0127e6aee4ca83aa3d005a48e4f617f580734c770e88"
 metafile = true
 
 [[files]]
