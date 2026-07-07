@@ -805,8 +805,8 @@ file = "config/ysns.json"
 hash = "15d1654f31ee01215a1efcd17b7de1f9ce5016362b7052f12b37354c9a3a5ca1"
 
 [[files]]
-file = "datapacks/CCC_2.1.zip"
-hash = "ce3d789b6f5a7a29018ba4c26cc384e51214bcbf891014b3f43218b33cba0174"
+file = "datapacks/CCC_2.1_noMegaOverride.zip"
+hash = "bbc86e807ed4ac36caf91fe3770559d8ac274906d794718155f6b43217ca8aec"
 
 [[files]]
 file = "datapacks/CobbleSounds[Data]_v1.4.zip"
@@ -1841,7 +1841,11 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "2850700a6b7de26f161db312f40bb9866d0531070bbb7df1853931e27b4c81a7"
+hash = "e79f31fe49d81f4785ad99fdf4091ce1f1a6aa0f088fb2425591de86da0f4164"
+
+[[files]]
+file = "resourcepacks/CCC_2.1_noMegaOverride.zip"
+hash = "bbc86e807ed4ac36caf91fe3770559d8ac274906d794718155f6b43217ca8aec"
 
 [[files]]
 file = "resourcepacks/CobbleTCG_bbolt.zip"
