@@ -1574,7 +1574,7 @@ metafile = true
 
 [[files]]
 file = "mods/matthiesen-lib-api.pw.toml"
-hash = "4039b88959a59596872e05f45479ddf56b863232888c8b9a090ab1a52cec8d17"
+hash = "a2343d11630669314fe6b3ab583cfabbb7eb70104e5cc2ac1e0d7f61af2ffd42"
 metafile = true
 
 [[files]]
