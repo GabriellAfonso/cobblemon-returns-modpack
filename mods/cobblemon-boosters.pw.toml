@@ -1,0 +1,13 @@
+name = "Cobblemon Boosters"
+filename = "cobblemon-boosters-fabric-1.7.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/W8QHSSjM/versions/ZN9bbjj4/cobblemon-boosters-fabric-1.7.0.jar"
+hash-format = "sha512"
+hash = "0fccc5a449c9b787071d5e8d542a9d131da668d93aae759d59da58f2aae9b770839329b99978a632b9964f606495f04e147bee28eeaf09c2fab90bacfe9222d6"
+
+[update]
+[update.modrinth]
+mod-id = "W8QHSSjM"
+version = "ZN9bbjj4"

@@ -1177,8 +1177,9 @@ hash = "1f6bd7e37ebe8275d02b9d5ec4037121dfbc236bd47f3b0b5f5e75cf598b620a"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-boosters-fabric-1.x-DEV-SNAPSHOT.jar"
-hash = "8653d2c5f927ee3c23125e9ebdcbc8b745d6207468697e3134f0471ed7480a8e"
+file = "mods/cobblemon-boosters.pw.toml"
+hash = "25f3615182fd2690b8d8b764c8ca820de99b8179c36227da9b489b8bcbbdbf0a"
+metafile = true
 
 [[files]]
 file = "mods/cobblemon-capture-xp.pw.toml"
@@ -1311,7 +1312,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobbreeding.pw.toml"
-hash = "e1f7a7bc656fb2af171219849b67b26d496881ac5a4405573a122ad344441261"
+hash = "bf5eed33e89ba5dd2c9fc5a0a462ca8dd32ae19a5e0643ffae6da15c54378f6d"
 metafile = true
 
 [[files]]
