@@ -1652,9 +1652,8 @@ hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
 
 [[files]]
-file = "mods/pokebadges.pw.toml"
-hash = "967f8716f59d7778aa7d38cfcc87aa6e07e75d827e993119d9d512e2cbfc0ebe"
-metafile = true
+file = "mods/pokebadges-fabric-1.3-dimfix.jar"
+hash = "d326b396d28dc75272d00aca1c41671943450784d357ad3b0b67c968dbdb16b3"
 
 [[files]]
 file = "mods/pokeblocks.pw.toml"
