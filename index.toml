@@ -66,7 +66,7 @@ hash = "b66da6824b6141acca353406c20654ebf599c814d50da37006b2bf51009b4f2a"
 
 [[files]]
 file = "config/carryon-common.json"
-hash = "171e09559422380cd9155c50a025b02426c75883d556297836f5952b40d60ffb"
+hash = "28749ba280d3cb290f21d4c42a626b1f5a3d48b23516c26753b860909eb287a1"
 
 [[files]]
 file = "config/catchrate-display.json"
@@ -450,7 +450,7 @@ hash = "ef26d10cf7746cd380cce226e2a8e626d1ee651466b3965dab3fac6f3611e995"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "085414acf316ec90dbe3f81b716ccf0c9eeee4fcaeba95d78b8efdf417183160"
+hash = "f8eb03df6b4a20dc7b754a320200c6156c02467628ede50e8d76681ce2d92d8b"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -986,6 +986,10 @@ hash = "027b88221ee1ac02a90589309417136a3dcb5deadaf4b397d88b4a9983cef636"
 metafile = true
 
 [[files]]
+file = "mods/CobblemonTrialsEdition-fabric-1.3.1-softspawner.jar"
+hash = "ceb06a30348ed124842fd56b7493457bdcd7bc0f57cfde788e74f87ddb8d71d7"
+
+[[files]]
 file = "mods/Gts-2.5.2-market-(my).jar"
 hash = "9f00fd6c7c3237087a7c09290c5cece29c5382e52ca9d2a2fdb0c40653f43db1"
 
@@ -1274,11 +1278,6 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-tim-core.pw.toml"
 hash = "82cbfd5cf3bcf0bec02ae7ec5b182981561aa566df61683358e5612dae083fdb"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-trials-edition.pw.toml"
-hash = "ff9ed2e964a6f5c2e3adc4fff95c4c6af1564e750e3239b250f51be28524c41f"
 metafile = true
 
 [[files]]
