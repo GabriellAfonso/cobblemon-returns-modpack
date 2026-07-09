@@ -1,13 +1,13 @@
 name = "Cobblemon Smartphone"
-filename = "cobblemon_smartphone-fabric-1.0.7.jar"
+filename = "cobblemon_smartphone-fabric-1.0.9-rev01.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/n2f1HbK8/versions/wEmPgtkJ/cobblemon_smartphone-fabric-1.0.7.jar"
+url = "https://cdn.modrinth.com/data/n2f1HbK8/versions/jVYOQrl9/cobblemon_smartphone-fabric-1.0.9-rev01.jar"
 hash-format = "sha512"
-hash = "0520249a05f5b015b1cfa0e9e47f1aad92efa566034ef4b4397db23f194c586f274821606737833d35cd9a8d0dab682c8a2aee65c67ba2df3d3414d0d967f3be"
+hash = "ece04aff35fda2b22f36f4148c155ab04ae81d40517b812c2c62becf0fdd4cc551dbcfccc69acb5ca6483f275a0f5c79da570ac49ac42d7f4927c9586c99e8ba"
 
 [update]
 [update.modrinth]
 mod-id = "n2f1HbK8"
-version = "wEmPgtkJ"
+version = "jVYOQrl9"

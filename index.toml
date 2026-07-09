@@ -996,7 +996,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-loot-info.pw.toml"
-hash = "376d87f9343537d02a9841478c5b5b6f794fdd3e49dd2bd4efde3cbfe57a0394"
+hash = "de5fd1bc4653d08bd3ef345a41199515d0db9447d5ddc0f852c5d16718eaf164"
 metafile = true
 
 [[files]]
@@ -1045,6 +1045,11 @@ hash = "a7a6a8396dd3842912b9483e6dfd0f39d165700e7eab470d4eab2244fc5d624e"
 metafile = true
 
 [[files]]
+file = "mods/better-cobblemon-spectation.pw.toml"
+hash = "218d773ecb93a8c757b4846eb8b58fd9f23850dbcb9b90943e041798f19c5b83"
+metafile = true
+
+[[files]]
 file = "mods/better-furnaces-reforged.pw.toml"
 hash = "a2dd3e0f2f3d2a5f1b112ce956f56187c5a1aacf3680a00d256135f92b106e7b"
 metafile = true
@@ -1081,7 +1086,7 @@ metafile = true
 
 [[files]]
 file = "mods/carry-on.pw.toml"
-hash = "6a492387f6348192bcb9e2ee15f9be142100648ce60080a75f980185cb66ee13"
+hash = "ea2b302c7d0e0ba1ecec31e44a134279d593a0665034bffc937ace6058abe4ce"
 metafile = true
 
 [[files]]
@@ -1158,7 +1163,7 @@ hash = "6e682ffa861274837a8d0b02f8b13ee76a67f9ed603f3d44d8ea8ba1cfd30fe1"
 
 [[files]]
 file = "mods/cobblefurnies.pw.toml"
-hash = "43c4255087127f6707010f05b378f53e1eb20f2eaf0434cdda0438b1a1543265"
+hash = "4ea6079e726435a8a9ecc92824c9bd2e0636495a4d73f8641e014cd5060c4d45"
 metafile = true
 
 [[files]]
@@ -1253,7 +1258,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-smartphone.pw.toml"
-hash = "abc6350124522e1494339be5e193153a59608f4e41f646fb468d217e9e4f36b4"
+hash = "8d93970681500b27b89e7286d756f3abba7674ae7379698c032d63d8c32cb89f"
 metafile = true
 
 [[files]]
@@ -1336,7 +1341,7 @@ metafile = true
 
 [[files]]
 file = "mods/cosmetic-megas.pw.toml"
-hash = "9d35033c86b60a17c3c959c2c796d7cec630493290549f9280f1265725ce673d"
+hash = "6ac12f60c400f982e819b9498eaa6373e9287f359ad1cb26fcf3c8e97029b40d"
 metafile = true
 
 [[files]]
@@ -1416,7 +1421,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8b055e1997973e615d20848f0c7d0712ebad4aa24ab8a3ee6d9682ea53642309"
+hash = "40b692927ec3a10fc8b456e2deca2ae45d190e67baabc53758c839729a3f86c7"
 metafile = true
 
 [[files]]
@@ -1470,7 +1475,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "95499bb1cfcbfc2a2e2734a7034de0f35c17058048866fdf17fc3a241d9f689e"
+hash = "3d26ad5d3f7693336b18c894f37978f7490d284f7f3b19b46d0527a7938789fc"
 metafile = true
 
 [[files]]
@@ -1490,7 +1495,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "3c5f595f507f250487d533c8002af1999b213e2f9bd08c9d427ae58cf9d598ef"
+hash = "a3a9ecc2b89b53f90ed6c2101e24baa9343827134e8f0468826d2e028976e01c"
 metafile = true
 
 [[files]]
@@ -1540,7 +1545,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "76a2560989102413693bbfbea83570287b3dce4f6ed40dc69aacbd3268633fe7"
+hash = "3aae2d941643c69518f618d52ba55d4798c494b3a0aeb594793201d437d7424b"
 metafile = true
 
 [[files]]
@@ -1555,12 +1560,12 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-monuments.pw.toml"
-hash = "4ebdf4088ef3c5fc5bcdc60e030eccfdb100be7984eb976fc75c369848061ef7"
+hash = "fd7bc3ad7f516c6f2cec2f4dcb64ea0e2137bf19d94f0a1baa91ecf2651b8686"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "23de0cbbfd28d752eb662c00a907406bac3e3ad529dd2ac250b41b4b0ef734ce"
+hash = "e10e639f71700a67d7f9b9d747e1685f838d703dadd432464b54e31b26f4742b"
 metafile = true
 
 [[files]]
@@ -1719,7 +1724,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "019188864eb8efd6803ba70ceb00d5a195dac16e332883a515cee1e4e15bb39f"
+hash = "311d23361c153f7adcad260255fe3b2062f1c8e67c75ee088e0b61855e9d9134"
 metafile = true
 
 [[files]]
@@ -1744,7 +1749,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurify.pw.toml"
-hash = "71cd32e6267aaed25123425166222aee479bcd6a46a59409a7548fd3c7c467af"
+hash = "288ee52e330fc219fef56bf8f9325067e7b2aa38bd282274e996f25d160ebc46"
 metafile = true
 
 [[files]]
@@ -1759,7 +1764,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "ec6f35a1b30090f4cf4003c66978bcd0b39e40f8bf907040d9f1a41eae8485a6"
+hash = "a77620d6804a7b60bdce1503558de43c163e8344be03a75a1e288313a535f0db"
 metafile = true
 
 [[files]]
@@ -1769,7 +1774,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
+hash = "66e1ed3e329e3ffa72a59acf74fae153157e6fb7d836afedb687b61ec2d8113a"
 metafile = true
 
 [[files]]
@@ -1802,7 +1807,7 @@ hash = "27500459260bff8b08e11cf76386a3989b4a99a7cfbdb51c31a6f908f91283a9"
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "cbfb8ce02bd0bb53f89267edf916f7d197a5f2b433ab2fd8a79f87140dac60d7"
+hash = "7566de3a3066d192edd8fd02223964015e7eb6ad8d0407d82512102aa4d9968a"
 metafile = true
 
 [[files]]
