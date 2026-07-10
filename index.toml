@@ -1186,6 +1186,11 @@ hash = "1f6bd7e37ebe8275d02b9d5ec4037121dfbc236bd47f3b0b5f5e75cf598b620a"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-battle-tower.pw.toml"
+hash = "42903ffa9569f362e3ab04cc8b6a570f80037293669dc66ee1abdd00607e2020"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-boosters.pw.toml"
 hash = "25f3615182fd2690b8d8b764c8ca820de99b8179c36227da9b489b8bcbbdbf0a"
 metafile = true
@@ -1278,6 +1283,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-tim-core.pw.toml"
 hash = "82cbfd5cf3bcf0bec02ae7ec5b182981561aa566df61683358e5612dae083fdb"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-trainer-structures.pw.toml"
+hash = "00dc83c23e1bb8e6e39e3dea89a410ba6926c1e11051c755658e052a81a4930e"
 metafile = true
 
 [[files]]
@@ -1632,6 +1642,11 @@ hash = "9e3b962dea7842587b3837f1cb03a7931665515ad085bd7b62ea9101de77c48e"
 metafile = true
 
 [[files]]
+file = "mods/notenoughrecipebook.pw.toml"
+hash = "bfd571ae8e997f4d3716aa70aea7ab478c68ffc351325233429ce452854a14bc"
+metafile = true
+
+[[files]]
 file = "mods/only-paxels.pw.toml"
 hash = "f7c3012dc475bbf0f322f79d5f6e6beaaee14b6c1367ed4b1184147c0fb81be9"
 metafile = true
@@ -1702,8 +1717,18 @@ hash = "ceb180c764fa9c7c12c7e750cc7b726171277cb2b68e47370888c4ff4679a4ed"
 metafile = true
 
 [[files]]
+file = "mods/screenshot-viewer.pw.toml"
+hash = "ba23c74355d05314b666f63512ebc1b91abc4926a48b00c137bd5e2be6868e82"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "8302da862578554b012b2cfe58a3c1e75b514d09f94d842e7303be41a2157aeb"
+metafile = true
+
+[[files]]
+file = "mods/shatterbyte-lib.pw.toml"
+hash = "9c9c2a9cc191c7cce4bb5143f19a5520253333e13d6c9f6ed873dcf63bc56628"
 metafile = true
 
 [[files]]
@@ -1810,6 +1835,11 @@ hash = "7566de3a3066d192edd8fd02223964015e7eb6ad8d0407d82512102aa4d9968a"
 metafile = true
 
 [[files]]
+file = "mods/wild-battle-api.pw.toml"
+hash = "33c55b3295464916bfea16af156b2a87f4441186446d90fbba1d373f64a74140"
+metafile = true
+
+[[files]]
 file = "mods/worldedit.pw.toml"
 hash = "08d4775f8546564ad812b09062633ffc48f44b76328efe3832c021651af86b14"
 metafile = true
@@ -1820,12 +1850,12 @@ hash = "09c0644fc83abfe0bd66ac44d182c426016e8537f1834629b42f86cde7a7b9be"
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "ca6d37c5bb6216eb2e2553554aa008f3e6e25cea706ac246f768b66e9bff3d1f"
+hash = "011f89a0f5b0fbbfd3fcc5a145643df61a43b82d7a166e3c5cb9143be800bab3"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "05a5209e2b8e90a21a141a99bf6cee8776dabebdb98206b11fb04ea6ab6bb799"
+hash = "dbd5043f205d7a2bf50cad9b70688d4c4c66e84ffab737082e2fce8be70c8beb"
 metafile = true
 
 [[files]]
