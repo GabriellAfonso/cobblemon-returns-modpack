@@ -830,7 +830,7 @@ hash = "5676b224a89a605e62d3a5a433ddbf5959969582b42d89e59172e89a79b430f5"
 
 [[files]]
 file = "datapacks/gym-leaders-datapack.zip"
-hash = "09426bb9bc3d4b871ec26559c4614b29f78642b02ae5f5aeea3eb88af630b94a"
+hash = "4eb3b31aa8cf2e0625c7277f56179b39d75a8c7e4cd82d0163482947f12f1505"
 
 [[files]]
 file = "datapacks/pokemon-custom-drops.zip"
@@ -1695,7 +1695,7 @@ hash = "f1082a69c3240ba223fa26e651d2b6a15ef4cb358772ba242acbb00aa0b06d02"
 
 [[files]]
 file = "mods/rctmod-fabric-1.21.1-0.18.1-beta-returns.jar"
-hash = "ddb0a2db561cd64713182de38f148406602f2d5fcdbf4cdc0715e9d4f8bb0fc8"
+hash = "e6d7e1e3b448f9507387a84643c097a3951c42b84d3e0a8b9a9ddf60b8930d08"
 
 [[files]]
 file = "mods/refurbished-furniture.pw.toml"
