@@ -758,7 +758,7 @@ hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
 
 [[files]]
 file = "config/xaero/minimap/profiles/default.cfg"
-hash = "7a9b8a57aec32319cde1dc4dbb96fbd1555c1e99fabacb597819ea8b966d3be5"
+hash = "64e5006a4665c31a828b5e62cd67f3b76e2aa239b001d0578fdca417f9e68d4e"
 
 [[files]]
 file = "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
@@ -830,7 +830,7 @@ hash = "5676b224a89a605e62d3a5a433ddbf5959969582b42d89e59172e89a79b430f5"
 
 [[files]]
 file = "datapacks/gym-leaders-datapack.zip"
-hash = "911eff3845e519a639e6e42543b10bee21df05c0912a662018b0c1131924ffe2"
+hash = "09426bb9bc3d4b871ec26559c4614b29f78642b02ae5f5aeea3eb88af630b94a"
 
 [[files]]
 file = "datapacks/pokemon-custom-drops.zip"
@@ -1690,12 +1690,12 @@ hash = "44a6662d6ac604b2173a8bc426a10c0d621c8ba99d37d1b72525c140c42cb358"
 metafile = true
 
 [[files]]
-file = "mods/rctapi-fabric-1.21.1-0.15.0-beta(modified).jar"
-hash = "6fc07269221f8ca2a426e26f9a88f5e44780d72661e3f83f56816fc9451c77e1"
+file = "mods/rctapi-fabric-1.21.1-0.15.2-beta-returns.jar"
+hash = "f1082a69c3240ba223fa26e651d2b6a15ef4cb358772ba242acbb00aa0b06d02"
 
 [[files]]
-file = "mods/rctmod-fabric-1.21.1-0.17.7-beta(modified).jar"
-hash = "f06bec28e20fb78e640425e5c634a1a98121f80938fafe76314fe5f39c44c866"
+file = "mods/rctmod-fabric-1.21.1-0.18.1-beta-returns.jar"
+hash = "ddb0a2db561cd64713182de38f148406602f2d5fcdbf4cdc0715e9d4f8bb0fc8"
 
 [[files]]
 file = "mods/refurbished-furniture.pw.toml"
