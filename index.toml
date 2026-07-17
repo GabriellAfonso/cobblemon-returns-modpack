@@ -1444,6 +1444,11 @@ hash = "337d97b990f76c91584b12600651ae7bd47a0824e45070b3d9330b0922149fc0"
 metafile = true
 
 [[files]]
+file = "mods/fabric-permissions-api.pw.toml"
+hash = "4f7bf8d60ef81f12471455f634bde52cc5a8c845250845b4519ad44ea46e61a6"
+metafile = true
+
+[[files]]
 file = "mods/factory-api.pw.toml"
 hash = "2f7397eec5d42fec1c97b4f89fc55f0c380117efa6956d5821823d36cced781a"
 metafile = true
@@ -1573,6 +1578,11 @@ hash = "fd7bc3ad7f516c6f2cec2f4dcb64ea0e2137bf19d94f0a1baa91ecf2651b8686"
 metafile = true
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "03d3257c38b12c588aae17a8c81b9c5a9da9661b469c667b47f43023a40af10f"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "e10e639f71700a67d7f9b9d747e1685f838d703dadd432464b54e31b26f4742b"
 metafile = true
@@ -1584,6 +1594,11 @@ hash = "b75601b64b256ea25a1329afd994b7c75db52c0b739761c604fdfee1818e05d8"
 [[files]]
 file = "mods/macaws-furniture.pw.toml"
 hash = "99deb2f3aa9cd5d7eff3dd58e8acbb32662cbd448a10fd588c166786200e3019"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "4842a349ba8e18407a4e32ef184ad1d2a437ff8e5b0c158391b6225216b4b8ce"
 metafile = true
 
 [[files]]
