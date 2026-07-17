@@ -1301,6 +1301,11 @@ hash = "6413f6c6bef7abc5a808a54111f093a17daf4471e89d8535840f2a24966bdcd4"
 metafile = true
 
 [[files]]
+file = "mods/cobblemonextrastructures.pw.toml"
+hash = "f190c0dc949c9961922684ee604177450130ec683985effb30529cdfa77941c6"
+metafile = true
+
+[[files]]
 file = "mods/cobblemonmovedex.pw.toml"
 hash = "900bb3c60f4d94fc1af4c76b034469706d34264fab64e4a45ff53fcbee66eef4"
 metafile = true
