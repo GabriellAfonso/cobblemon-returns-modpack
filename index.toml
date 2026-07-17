@@ -1414,6 +1414,11 @@ hash = "89e18f90b2476b7f9e518cfa237c6daed3091043e3f22db3dd38c2da5b26ede5"
 metafile = true
 
 [[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "ecc30c21290ac87a732085e16add94a392d4e5dfc0bae5f353975eea51a38a84"
+metafile = true
+
+[[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "135837201d4c30811971e630e957867397b995e6803ff75754d510bf1b4fe8fc"
 metafile = true
@@ -1590,6 +1595,11 @@ metafile = true
 [[files]]
 file = "mods/lithostitched-1.7.11-fabric-21.1.jar"
 hash = "b75601b64b256ea25a1329afd994b7c75db52c0b739761c604fdfee1818e05d8"
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "88b5510e39cdc8ca356d54bc436edc777d5eafc03203a8724784183408fe6792"
+metafile = true
 
 [[files]]
 file = "mods/macaws-furniture.pw.toml"
@@ -1824,6 +1834,11 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "b88eeffcbc387b48a89b616ff5b0ad6b0da33037b5326444f75a5f1a49916764"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
 metafile = true
 
 [[files]]
