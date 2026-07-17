@@ -1050,7 +1050,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-cobblemon-spectation.pw.toml"
-hash = "218d773ecb93a8c757b4846eb8b58fd9f23850dbcb9b90943e041798f19c5b83"
+hash = "b430d626412375efa88cc0f796a66cedda3475f7b88ec4c9771c4e7cceb64a4c"
 metafile = true
 
 [[files]]
@@ -1267,7 +1267,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-smartphone.pw.toml"
-hash = "8d93970681500b27b89e7286d756f3abba7674ae7379698c032d63d8c32cb89f"
+hash = "ea6a2d51f192b49d4919e27fc235c8a81394de7307916c5b934a93ab909d0614"
 metafile = true
 
 [[files]]
@@ -1788,7 +1788,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "a77620d6804a7b60bdce1503558de43c163e8344be03a75a1e288313a535f0db"
+hash = "939a6da6fa99a4708799e22bc9cfa5ba22fd0d9b108ba9094bd70eae468f39dd"
 metafile = true
 
 [[files]]
@@ -1831,7 +1831,7 @@ hash = "27500459260bff8b08e11cf76386a3989b4a99a7cfbdb51c31a6f908f91283a9"
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "7566de3a3066d192edd8fd02223964015e7eb6ad8d0407d82512102aa4d9968a"
+hash = "eedabe95c6fd8a1184d833db98bda2fc35e39839711caae21b1771784d2d5abf"
 metafile = true
 
 [[files]]
