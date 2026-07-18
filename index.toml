@@ -1050,7 +1050,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-cobblemon-spectation.pw.toml"
-hash = "b430d626412375efa88cc0f796a66cedda3475f7b88ec4c9771c4e7cceb64a4c"
+hash = "218d773ecb93a8c757b4846eb8b58fd9f23850dbcb9b90943e041798f19c5b83"
 metafile = true
 
 [[files]]
