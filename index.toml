@@ -1837,6 +1837,11 @@ hash = "9c7364e62fa7f1ed35d21b882c133e77c48101e285035e2451d3bec431f20569"
 metafile = true
 
 [[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "f79709f5695efb597d43457a3e21cc3bf1c7edce7a3258b6bbfcb456c9d08759"
+metafile = true
+
+[[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "b88eeffcbc387b48a89b616ff5b0ad6b0da33037b5326444f75a5f1a49916764"
 metafile = true
@@ -1910,7 +1915,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "e79f31fe49d81f4785ad99fdf4091ce1f1a6aa0f088fb2425591de86da0f4164"
+hash = "2d432d8f3a7817a10690ec9b185a6c1c0f9f64aa1c3abbd61c1922fe646d1d65"
 
 [[files]]
 file = "resourcepacks/CCC_2.1_noMegaOverride.zip"
