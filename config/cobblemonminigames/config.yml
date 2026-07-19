@@ -1,0 +1,33 @@
+snake:
+  enabled: true
+  coinToPlay: 1
+  multiplier: 2.0
+flappybird:
+  enabled: true
+  coinToPlay: 1
+  multiplier: 2.0
+  speedBase: 2.0
+  speedStep: 0.05
+  speedMax: 7.0
+slotmachine:
+  enabled: true
+  coinToPlay: 1
+blockstacker:
+  enabled: true
+  coinToPlay: 1
+  prize50SpeedFrames: 4
+  prize250SpeedFrames: 3
+  prize1000SpeedFrames: 2
+derby:
+  enabled: true
+voltorbflip:
+  enabled: true
+  coinToPlay: 10
+roulette:
+  enabled: true
+  leftTableBet: 1
+  rightTableBet: 3
+  serviceDayBet: 6
+recipes:
+  arcadeCoinCrafting: true
+  arcadeMachineCrafting: true

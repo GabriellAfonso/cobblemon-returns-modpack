@@ -711,6 +711,10 @@
     {
       "item": "cobblemon:relic_coin_sack",
       "price": 2430
+    },
+    {
+      "item": "cobblemonminigames:arcade_coin",
+      "price": 500
     }
   ]
 }
