@@ -82,7 +82,7 @@ hash = "f5a64c99266d104de1a899388172970da2a16f86ce96af7ca5961b0d363f289c"
 
 [[files]]
 file = "config/cobbledollars/bank.json"
-hash = "0f4bc3ce35194448f79dd63ac372fdf23f40d4aee4a6c05f352f25063272c015"
+hash = "e97cd773eb8dd81ed2c601263cb4f7a6b61fe0848504041e0031800f03906c8b"
 
 [[files]]
 file = "config/cobbledollars/client.json"
@@ -143,6 +143,22 @@ hash = "a8330adbabaa6a9f2e2cb4b9c99d86135d21d519ff2cb52cf8f7569caedc0a47"
 [[files]]
 file = "config/cobblemonintegrations-common.toml"
 hash = "5a2bcc569873b84be87acfffc00acb615af70d8e412e6934ad0a7ac951ab9a04"
+
+[[files]]
+file = "config/cobblemonminigames/config.yml"
+hash = "d4570f28a30aa98bdd49691b3f24893aac297e0ccc4c38b51df8c5e2cac17fdb"
+
+[[files]]
+file = "config/cobblemonminigames/keybinds.yml"
+hash = "29de0dfb7fe0b071b15cba81aca42d2003c2e2b600bf0d0f38ba32e8676b8c35"
+
+[[files]]
+file = "config/cobblemonminigames/shop/cobblemon.yml"
+hash = "06cfa86d8d85de5cde5838a17a7b29070bc1279ffca41fbb5b062ecc338afb10"
+
+[[files]]
+file = "config/cobblemonminigames/shop/mega_showdown.yml"
+hash = "714d58528dc192c799eb179c5a1bd6c51b6599edca8bfa7b8dc75e2f50a51634"
 
 [[files]]
 file = "config/cobblemonraiddens/blacklist.json5"
@@ -398,7 +414,7 @@ hash = "ceb5b3624c3269bef037b2914da8ab0d1c368abdd466156292a5d82db8803b0e"
 
 [[files]]
 file = "config/explorerscompass.json"
-hash = "3c9e39e4d6a36db5d84e4b1eae822eb54840418fc5dfcdda972443c3e49075f9"
+hash = "18ff1a55b9f7fb543bd14e0c6c365f9c321dbfb06dbd3cb09f7d1c4575568318"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
