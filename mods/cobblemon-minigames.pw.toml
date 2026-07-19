@@ -1,0 +1,13 @@
+name = "Cobblemon MiniGames"
+filename = "cobblemonminigames-fabric-2.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KVNtCTpr/versions/tV8wBXFE/cobblemonminigames-fabric-2.2.0.jar"
+hash-format = "sha512"
+hash = "7572a605b2150313ebaac6dab7bceda44ea80591be48129ecedee0757801a8116feef246caf5b3ad8425a91205da65f4a29de784d1e8e9656319c2fc70eceb6e"
+
+[update]
+[update.modrinth]
+mod-id = "KVNtCTpr"
+version = "tV8wBXFE"

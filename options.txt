@@ -49,7 +49,7 @@ damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
 resourcePacks:["vanilla","fabric","moonlight:merged_pack","cobblemon:gyaradosjump","cobblemon:regionbiasforms","cobblemon:uniqueshinyforms","mega_showdown:gyaradosjumpingmega","mega_showdown:regionbiasmsd","file/Cobblemon Interface v1.6.0.zip","file/XaerosCobblemon-3.0.4_stars+1.7.0.zip","cobbreeding:pasturefix","cobbreeding:coloredeggs","file/RCT Trainers+ [1.6] v2.1.zip","file/CobbleSounds[Complete]_v1.4.1.zip","continuity:default","continuity:glass_pane_culling_fix","file/TB Textures Cobblemon-fabric-1.5.zip","file/Cobblemon Interface Modded v1.9.4.zip","file/gym-leaders-resourcepack.zip","file/CobbleMotion_v1.5.zip","file/CobbleTCG_bbolt.zip","file/CobbleTCG_eskies.zip","file/CobbleTCG_hfates.zip","file/CobbleTCG_mew151.zip","file/CobbleTCG_wflare.zip","file/CCC_2.1_noMegaOverride.zip"]
-incompatibleResourcePacks:["ali","appleskin","balm","betteradvancements","betterfurnacesreforged","carryon","cobbledgacha","cobblesafari","controlling","easy_npc","easy_npc_config_ui","framework","jade","jei","modernfix","polymorph","refurbished_furniture","searchables","spark","starterkit","terrablender","toms_storage","waterframes","waystones","xaerolib","xaerominimap","xaeroworldmap","yet_another_config_lib_v3"]
+incompatibleResourcePacks:["ali","appleskin","balm","betteradvancements","betterfurnacesreforged","carryon","catconfig-mc","cobbledgacha","cobblesafari","controlling","easy_npc","easy_npc_config_ui","framework","jade","jei","legendarymonuments","modernfix","particular","polymorph","refurbished_furniture","searchables","spark","starterkit","terralith","toms_storage","waterframes","waystones","xaerolib","xaerominimap","xaeroworldmap","yet_another_config_lib_v3"]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -184,7 +184,7 @@ key_key.jade.show_uses:key.keyboard.keypad.4
 key_key.jade.narrate:key.keyboard.keypad.5
 key_key.jade.show_details_alternative:key.keyboard.unknown
 key_key.jei.toggleOverlay:key.keyboard.unknown
-key_key.jei.focusSearch:key.keyboard.f
+key_key.jei.focusSearch:key.keyboard.unknown
 key_key.jei.previousPage:key.keyboard.unknown
 key_key.jei.nextPage:key.keyboard.unknown
 key_key.jei.toggleBookmarkOverlay:key.keyboard.unknown

@@ -450,7 +450,7 @@ hash = "ef26d10cf7746cd380cce226e2a8e626d1ee651466b3965dab3fac6f3611e995"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "f8eb03df6b4a20dc7b754a320200c6156c02467628ede50e8d76681ce2d92d8b"
+hash = "f6c5a9409382b6ae955faf87acd89632bf859cc025be1c36cea56fd413d82c03"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -1129,6 +1129,11 @@ hash = "963019c7792b7805d9012031a15abaf25ab4524cb509f7e6f679bf5de881a2b5"
 metafile = true
 
 [[files]]
+file = "mods/classic-pipes.pw.toml"
+hash = "f0d543ed1f2509f02a04c46f0c5ee094a497c84746d721fd79c8f1e4a03af0f4"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
@@ -1228,6 +1233,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
 hash = "dac3735111150e6dee94f69b03ccf6c8f65e2c975421c4f730d9afc70a3f4154"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-minigames.pw.toml"
+hash = "900e0469ad93b17f70a08e4a073e7b965401ae9ae4409c6a9e31c4465f015e45"
 metafile = true
 
 [[files]]
@@ -1419,8 +1429,8 @@ hash = "89e18f90b2476b7f9e518cfa237c6daed3091043e3f22db3dd38c2da5b26ede5"
 metafile = true
 
 [[files]]
-file = "mods/elytra-slot.pw.toml"
-hash = "ecc30c21290ac87a732085e16add94a392d4e5dfc0bae5f353975eea51a38a84"
+file = "mods/elevatormod.pw.toml"
+hash = "9bef602ef888f741dbd48091fe188697619acb29b9f57cadb9a0dc5b3fe55529"
 metafile = true
 
 [[files]]
@@ -1558,6 +1568,11 @@ hash = "6ee94689dd67f0210e07feafac8140e8968bcbcd67defcfbdcd677cf78943900"
 metafile = true
 
 [[files]]
+file = "mods/item-collectors.pw.toml"
+hash = "bfe0198a67fc0a47274baf8a530b82e62eb2c52136ccbd77e8f9853446583053"
+metafile = true
+
+[[files]]
 file = "mods/item-obliterator.pw.toml"
 hash = "d7bc8e3eddeaedd18d4c75061d211196d357fba3f408b3c752cfb68551cad5a7"
 metafile = true
@@ -1667,6 +1682,11 @@ hash = "6bb3af7285763fcb7f42a42127ae1f235873ca54b7090ae95a41e8b040c1a5fc"
 metafile = true
 
 [[files]]
+file = "mods/norollback.pw.toml"
+hash = "d788961b47341d69c1b2caf7a976c9a1a587245ad2ab14fd93c4ced105217361"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "9e3b962dea7842587b3837f1cb03a7931665515ad085bd7b62ea9101de77c48e"
 metafile = true
@@ -1739,6 +1759,11 @@ hash = "ccf5a4b585c41b9e629aedceb269e01b7488708f5440351e4a6862903dfe8ef4"
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "d3f633dd12cd039a4e58dd398d1c80a324b0d78b9da5b3972b69640bfed211ed"
+metafile = true
+
+[[files]]
+file = "mods/resourcepackcached.pw.toml"
+hash = "092da057a97a4c235d2d369cef25e2a76d3c5251c864a6ae73ff1ae23b36e0a3"
 metafile = true
 
 [[files]]
@@ -1847,11 +1872,6 @@ hash = "b88eeffcbc387b48a89b616ff5b0ad6b0da33037b5326444f75a5f1a49916764"
 metafile = true
 
 [[files]]
-file = "mods/trinkets.pw.toml"
-hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
-metafile = true
-
-[[files]]
 file = "mods/true-ending.pw.toml"
 hash = "01ceaadc4312cec47b35c619dec9875fd5600e81202980afe79f27c91d6ac311"
 metafile = true
@@ -1909,13 +1929,18 @@ hash = "99bec6ddc2e920fdb5dfcb357125c4a438ed36e7ab6c63e59a967cb3bcf9331d"
 metafile = true
 
 [[files]]
+file = "mods/zannaghs-armor-hider.pw.toml"
+hash = "54dd4045d710835ac7badd6a75462673126c88117b373c45b5ddb696388473ab"
+metafile = true
+
+[[files]]
 file = "mods/zoomify.pw.toml"
 hash = "f0146b6db8c58c34450d727efac757e911d0d04a0d308248d60de9aad3a2f752"
 metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "2d432d8f3a7817a10690ec9b185a6c1c0f9f64aa1c3abbd61c1922fe646d1d65"
+hash = "92bfaeee1a49a9b3673f847d52d43a71e0a172f46b71763eac20b8859a48de82"
 
 [[files]]
 file = "resourcepacks/CCC_2.1_noMegaOverride.zip"

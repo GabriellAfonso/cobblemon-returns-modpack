@@ -55,7 +55,9 @@
     "!naturescompass:.*",
     "!explorerscompass:.*",
     "!moblassos:.*",
-    "!waystones:.*"
+    "!waystones:.*",
+    "cobblemonminigames:arcade_coin",
+    "cobblemonminigames:arcade_block"
   ],
   // -----------------------------------------------------------
   // If true, the mod will use a hashset to handle the blacklisted items
