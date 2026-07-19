@@ -4,3 +4,4 @@
 *.txt -text
 *.json5 -text
 *.cfg -text
+* -text
