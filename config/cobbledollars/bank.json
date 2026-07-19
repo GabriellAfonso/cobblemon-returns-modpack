@@ -121,6 +121,138 @@
       "price": 90000
     },
     {
+      "item": "minecraft:wooden_sword",
+      "price": 3
+    },
+    {
+      "item": "minecraft:wooden_pickaxe",
+      "price": 5
+    },
+    {
+      "item": "minecraft:wooden_axe",
+      "price": 5
+    },
+    {
+      "item": "minecraft:wooden_shovel",
+      "price": 3
+    },
+    {
+      "item": "minecraft:wooden_hoe",
+      "price": 4
+    },
+    {
+      "item": "minecraft:stone_sword",
+      "price": 3
+    },
+    {
+      "item": "minecraft:stone_pickaxe",
+      "price": 5
+    },
+    {
+      "item": "minecraft:stone_axe",
+      "price": 5
+    },
+    {
+      "item": "minecraft:stone_shovel",
+      "price": 3
+    },
+    {
+      "item": "minecraft:stone_hoe",
+      "price": 4
+    },
+    {
+      "item": "minecraft:iron_sword",
+      "price": 121
+    },
+    {
+      "item": "minecraft:iron_pickaxe",
+      "price": 182
+    },
+    {
+      "item": "minecraft:iron_axe",
+      "price": 182
+    },
+    {
+      "item": "minecraft:iron_shovel",
+      "price": 62
+    },
+    {
+      "item": "minecraft:iron_hoe",
+      "price": 122
+    },
+    {
+      "item": "minecraft:golden_sword",
+      "price": 201
+    },
+    {
+      "item": "minecraft:golden_pickaxe",
+      "price": 302
+    },
+    {
+      "item": "minecraft:golden_axe",
+      "price": 302
+    },
+    {
+      "item": "minecraft:golden_shovel",
+      "price": 102
+    },
+    {
+      "item": "minecraft:golden_hoe",
+      "price": 202
+    },
+    {
+      "item": "minecraft:diamond_sword",
+      "price": 2001
+    },
+    {
+      "item": "minecraft:diamond_pickaxe",
+      "price": 3002
+    },
+    {
+      "item": "minecraft:diamond_axe",
+      "price": 3002
+    },
+    {
+      "item": "minecraft:diamond_shovel",
+      "price": 1002
+    },
+    {
+      "item": "minecraft:diamond_hoe",
+      "price": 2002
+    },
+    {
+      "item": "minecraft:netherite_sword",
+      "price": 12001
+    },
+    {
+      "item": "minecraft:netherite_pickaxe",
+      "price": 13002
+    },
+    {
+      "item": "minecraft:netherite_axe",
+      "price": 13002
+    },
+    {
+      "item": "minecraft:netherite_shovel",
+      "price": 11002
+    },
+    {
+      "item": "minecraft:netherite_hoe",
+      "price": 12002
+    },
+    {
+      "item": "minecraft:shears",
+      "price": 120
+    },
+    {
+      "item": "minecraft:flint_and_steel",
+      "price": 63
+    },
+    {
+      "item": "minecraft:bucket",
+      "price": 180
+    },
+    {
       "item": "minecraft:cobblestone",
       "price": 1
     },

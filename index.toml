@@ -82,7 +82,7 @@ hash = "f5a64c99266d104de1a899388172970da2a16f86ce96af7ca5961b0d363f289c"
 
 [[files]]
 file = "config/cobbledollars/bank.json"
-hash = "e97cd773eb8dd81ed2c601263cb4f7a6b61fe0848504041e0031800f03906c8b"
+hash = "cae72b0b508d43c574fb66358334e4c62e1479d880092a409210db68495ec935"
 
 [[files]]
 file = "config/cobbledollars/client.json"
@@ -154,7 +154,7 @@ hash = "29de0dfb7fe0b071b15cba81aca42d2003c2e2b600bf0d0f38ba32e8676b8c35"
 
 [[files]]
 file = "config/cobblemonminigames/shop/cobblemon.yml"
-hash = "06cfa86d8d85de5cde5838a17a7b29070bc1279ffca41fbb5b062ecc338afb10"
+hash = "f5e3aefa0458b306e3b947626845a63c1c7d0d047ad1029c380ea8e3c949a938"
 
 [[files]]
 file = "config/cobblemonminigames/shop/mega_showdown.yml"

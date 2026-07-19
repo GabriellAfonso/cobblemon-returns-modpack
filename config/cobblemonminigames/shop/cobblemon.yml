@@ -932,52 +932,52 @@ categories:
         items:
           - type: pokemon
             id: "cobblemon:dragonite"
-            price: 5000
+            price: 1500
             level: 40
             rarity: ultra-rare
           - type: pokemon
             id: "cobblemon:tyranitar"
-            price: 5000
+            price: 1500
             level: 40
             rarity: ultra-rare
           - type: pokemon
             id: "cobblemon:metagross"
-            price: 5000
+            price: 1500
             level: 40
             rarity: ultra-rare
           - type: pokemon
             id: "cobblemon:salamence"
-            price: 5000
+            price: 1500
             level: 40
             rarity: ultra-rare
           - type: pokemon
             id: "cobblemon:garchomp"
-            price: 5000
+            price: 1500
             level: 40
             rarity: ultra-rare
           - type: pokemon
             id: "cobblemon:hydreigon"
-            price: 5000
+            price: 1500
             level: 40
             rarity: ultra-rare
           - type: pokemon
             id: "cobblemon:lucario"
-            price: 5000
+            price: 1500
             level: 40
             rarity: ultra-rare
           - type: pokemon
             id: "cobblemon:milotic"
-            price: 5000
+            price: 1500
             level: 40
             rarity: ultra-rare
           - type: pokemon
             id: "cobblemon:rotom"
-            price: 5000
+            price: 1500
             level: 40
             rarity: ultra-rare
           - type: pokemon
             id: "cobblemon:zoroark"
-            price: 5000
+            price: 1500
             level: 40
             rarity: ultra-rare
 
