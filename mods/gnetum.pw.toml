@@ -1,0 +1,13 @@
+name = "Gnetum"
+filename = "Gnetum-4.5.1+1.21.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7MoE34WK/versions/ZTo5IU1M/Gnetum-4.5.1%2B1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "3c8fb9b29dd54a757e2b39984424c11b58fd3a44e607d433c0a80c290cf99f1a252169edc4758c5c91b39436cd5c1b1f749aeff10f2196e93981be28d281bed9"
+
+[update]
+[update.modrinth]
+mod-id = "7MoE34WK"
+version = "ZTo5IU1M"

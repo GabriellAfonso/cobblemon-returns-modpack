@@ -1524,6 +1524,11 @@ hash = "73ba52fce9064dfb0a3b78f1d96354b79c52db7e2a3e8ecc713da6429b4c5723"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "dce0df1d0cb1a7f05811ba502f3a3de0458e0c5154f1b72ae493a339f3866083"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "3d26ad5d3f7693336b18c894f37978f7490d284f7f3b19b46d0527a7938789fc"
 metafile = true
@@ -1531,6 +1536,11 @@ metafile = true
 [[files]]
 file = "mods/get-it-together-drops.pw.toml"
 hash = "84e4e5d7adfa7d4a18bd1fb026d190824de8556fcc02036fea8f1a41563e1ef5"
+metafile = true
+
+[[files]]
+file = "mods/gnetum.pw.toml"
+hash = "08660aa26febae488c536ddf1c117c3a6b63dbbbaef1c1dd7603cf63f81d20db"
 metafile = true
 
 [[files]]
@@ -1591,6 +1601,11 @@ metafile = true
 [[files]]
 file = "mods/item-obliterator.pw.toml"
 hash = "d7bc8e3eddeaedd18d4c75061d211196d357fba3f408b3c752cfb68551cad5a7"
+metafile = true
+
+[[files]]
+file = "mods/ixeris.pw.toml"
+hash = "4f455a65a5328ca3ac068bd09d4d9f66b38f2f33aef9a084b7e7915df79d32b7"
 metafile = true
 
 [[files]]
@@ -1713,6 +1728,11 @@ hash = "bfd571ae8e997f4d3716aa70aea7ab478c68ffc351325233429ce452854a14bc"
 metafile = true
 
 [[files]]
+file = "mods/obe.pw.toml"
+hash = "72bd241bbf5fe9b9610be8c8dbe396c6924d51e3ab92a36381d77befc6bfb21e"
+metafile = true
+
+[[files]]
 file = "mods/only-paxels.pw.toml"
 hash = "f7c3012dc475bbf0f322f79d5f6e6beaaee14b6c1367ed4b1184147c0fb81be9"
 metafile = true
@@ -1724,6 +1744,11 @@ hash = "825180ce17bc012fb450653b14df9f32479dcdd073fc3f133bb47462f5a63cec"
 [[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "97156c7cbfd94c3f457f5ef89ab65f1b963b1559f98fd3923ab40cf8cc21a905"
 metafile = true
 
 [[files]]
