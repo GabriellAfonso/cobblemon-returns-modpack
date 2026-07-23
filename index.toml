@@ -1161,7 +1161,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobbledex-rei-emi-jei.pw.toml"
-hash = "e08f6058d727221a1a1e26a6165d3be74df598d6445956049ad082f14d8e8d6b"
+hash = "1cf0a6958a641520815e60b6f1d742e0e29911bb534a208886c523fcb1482013"
 metafile = true
 
 [[files]]
@@ -1248,12 +1248,12 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
-hash = "dac3735111150e6dee94f69b03ccf6c8f65e2c975421c4f730d9afc70a3f4154"
+hash = "6a1f474d480d45616c91bba8ce8a5dcf468835be8f4f33625c13821125645c6c"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-minigames.pw.toml"
-hash = "900e0469ad93b17f70a08e4a073e7b965401ae9ae4409c6a9e31c4465f015e45"
+hash = "63b6a4aafdc4de5b686ee819e077dbf776fd2b10c526bccc0fe3bc51b5e17342"
 metafile = true
 
 [[files]]
@@ -1699,7 +1699,7 @@ metafile = true
 
 [[files]]
 file = "mods/navas-zamega.pw.toml"
-hash = "283b500122554b71dbdbf33033580c41f60b5d52b5eee911b98fb6fc634431db"
+hash = "75db3822df0a84ddd430d82ec36361a6fdb53f83f64a275725a5f1d0695304f8"
 metafile = true
 
 [[files]]
