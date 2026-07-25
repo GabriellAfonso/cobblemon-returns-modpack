@@ -1248,7 +1248,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
-hash = "6a1f474d480d45616c91bba8ce8a5dcf468835be8f4f33625c13821125645c6c"
+hash = "8671cfb573d2d259b12e0ee59dccecebd702949444fba2946c5ad09ae1fed410"
 metafile = true
 
 [[files]]
@@ -1699,7 +1699,7 @@ metafile = true
 
 [[files]]
 file = "mods/navas-zamega.pw.toml"
-hash = "75db3822df0a84ddd430d82ec36361a6fdb53f83f64a275725a5f1d0695304f8"
+hash = "8f87e98eaa241a61718c987004cdb86981552549cc9d38d1d11b4659f89eab97"
 metafile = true
 
 [[files]]
@@ -1899,7 +1899,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-storage.pw.toml"
-hash = "9c7364e62fa7f1ed35d21b882c133e77c48101e285035e2451d3bec431f20569"
+hash = "394f7a6c2d6603c4cfafdd03073b70962aae69d1a9c306d661efcf1fde748b68"
 metafile = true
 
 [[files]]
@@ -1932,7 +1932,7 @@ hash = "27500459260bff8b08e11cf76386a3989b4a99a7cfbdb51c31a6f908f91283a9"
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "eedabe95c6fd8a1184d833db98bda2fc35e39839711caae21b1771784d2d5abf"
+hash = "f4981f3268ba86f32a0f652583ad03344e728c51014e408a16ac662099c467b6"
 metafile = true
 
 [[files]]
