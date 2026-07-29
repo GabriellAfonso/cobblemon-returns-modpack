@@ -269,6 +269,14 @@ file = "config/cobblestats/config.json"
 hash = "2c026734f289c449623268abdd1977a47315ff4e41665ab3e7e7365f8c59d1a8"
 
 [[files]]
+file = "config/cobbreeding/encryption"
+hash = "86b0b2d1c8eeeabcd73935e42a0ddfaa0f9fb98f21a2082fe31ff3a10e3f6aaa"
+
+[[files]]
+file = "config/cobbreeding/main.json"
+hash = "444b12a455b859cd7c3afdc48126cffabce18b5b71d09a3177c4b4135533c747"
+
+[[files]]
 file = "config/collective.json5"
 hash = "b6243b955bf123f86c947510d9f8f3a4b5f7b8fe3775d834f458d60a3223847f"
 
@@ -1685,6 +1693,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "67b05454e77a30df77f57a6eff49499ff6a18373433be379f90e83f18b7d4290"
+metafile = true
+
+[[files]]
+file = "mods/more-cobblemon-tweaks.pw.toml"
+hash = "b008dca46f8a4241def14990a429352173cdfba8aab0fbe427b20437df54f78b"
 metafile = true
 
 [[files]]
