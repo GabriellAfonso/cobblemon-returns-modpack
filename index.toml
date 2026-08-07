@@ -1169,7 +1169,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobbledex-rei-emi-jei.pw.toml"
-hash = "1cf0a6958a641520815e60b6f1d742e0e29911bb534a208886c523fcb1482013"
+hash = "ca77939c586a32c84b9508a45ab3214026f913c0bf278e99c7debf46ac4871c6"
 metafile = true
 
 [[files]]
@@ -1261,7 +1261,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-minigames.pw.toml"
-hash = "63b6a4aafdc4de5b686ee819e077dbf776fd2b10c526bccc0fe3bc51b5e17342"
+hash = "d48d6245285f352e1a46c84f8508d1473125554dafb2948a8502ceb983e59826"
 metafile = true
 
 [[files]]
@@ -1301,7 +1301,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-smartphone.pw.toml"
-hash = "ea6a2d51f192b49d4919e27fc235c8a81394de7307916c5b934a93ab909d0614"
+hash = "3f793e29fce00710416f027c3f760d19cb3d6a0a931ec190833bba160d5dfc20"
 metafile = true
 
 [[files]]
@@ -1945,7 +1945,7 @@ hash = "27500459260bff8b08e11cf76386a3989b4a99a7cfbdb51c31a6f908f91283a9"
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "f4981f3268ba86f32a0f652583ad03344e728c51014e408a16ac662099c467b6"
+hash = "663116e456b8ab4d2fd4be89b67df96330043d4c52139f082f6e75b62eeb3892"
 metafile = true
 
 [[files]]

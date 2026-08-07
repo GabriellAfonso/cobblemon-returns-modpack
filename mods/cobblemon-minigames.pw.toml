@@ -1,13 +1,13 @@
 name = "Cobblemon MiniGames"
-filename = "cobblemonminigames-fabric-2.3.0.jar"
+filename = "cobblemonminigames-fabric-3.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KVNtCTpr/versions/G4iMMdIM/cobblemonminigames-fabric-2.3.0.jar"
+url = "https://cdn.modrinth.com/data/KVNtCTpr/versions/56gehxoN/cobblemonminigames-fabric-3.0.2.jar"
 hash-format = "sha512"
-hash = "40cd8a807c20166e181b8218ebe65e65e2060ebd0ee48c97345e76c6dfcfd759a766d4103af5ceb82c54496a69d891b6f030a4a2434e9e40cf51a6e0f3102b86"
+hash = "3dfefbda3aca5020199914119ee86a144418514893b66d6ef70950310dcfd634e8659870a2fa6b2140b58932be5a3fe352a71d12074e592594fff7b2cb539863"
 
 [update]
 [update.modrinth]
 mod-id = "KVNtCTpr"
-version = "G4iMMdIM"
+version = "56gehxoN"
