@@ -1940,8 +1940,8 @@ file = "mods/waterframes-FABRIC-mc1.21.1-v2.1.22.jar"
 hash = "7c6a79c48132f74543784dc325895ac8061fe4ff0a8712a08ec8c36516f97844"
 
 [[files]]
-file = "mods/watermedia-2.1.19.jar"
-hash = "27500459260bff8b08e11cf76386a3989b4a99a7cfbdb51c31a6f908f91283a9"
+file = "mods/watermedia-2.1.37.jar"
+hash = "cdd8e1b50e4dee0892c5ed02724cea6b1a74d2b718c7e974c9cfc0efa8c10389"
 
 [[files]]
 file = "mods/waystones.pw.toml"
